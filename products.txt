@@ -1,0 +1,276 @@
+apple
+banana
+orange
+pear
+grape
+strawberry
+blueberry
+raspberry
+pineapple
+mango
+kiwi
+watermelon
+rockmelon
+avocado
+tomato
+potato
+sweet potato
+onion
+garlic
+ginger
+carrot
+broccoli
+cauliflower
+cabbage
+lettuce
+spinach
+kale
+zucchini
+eggplant
+capsicum
+chilli
+corn
+peas
+beans
+mushroom
+beetroot
+radish
+celery
+leek
+pumpkin
+cucumber
+herbs
+parsley
+basil
+coriander
+mint
+
+bread
+white bread
+wholemeal bread
+sourdough
+wraps
+tortillas
+bagels
+english muffins
+croissants
+flatbread
+pita bread
+
+milk
+full cream milk
+skim milk
+almond milk
+soy milk
+oat milk
+lactose free milk
+
+cheese
+cheddar
+mozzarella
+parmesan
+feta
+cream cheese
+ricotta
+halloumi
+brie
+camembert
+
+yogurt
+greek yogurt
+vanilla yogurt
+strawberry yogurt
+
+butter
+margarine
+cream
+
+eggs
+free range eggs
+cage eggs
+
+chicken
+chicken breast
+chicken thigh
+chicken wings
+chicken drumsticks
+
+beef
+beef mince
+steak
+roast beef
+
+pork
+pork chops
+bacon
+ham
+salami
+
+sausages
+lamb
+lamb chops
+
+fish
+salmon
+tuna
+prawns
+sardines
+fish fillets
+
+frozen pizza
+frozen vegetables
+frozen chips
+frozen berries
+ice cream
+frozen meals
+
+rice
+pasta
+spaghetti
+penne
+noodles
+instant noodles
+ramen
+
+flour
+sugar
+brown sugar
+icing sugar
+salt
+pepper
+
+cereal
+cornflakes
+muesli
+granola
+oats
+porridge
+
+biscuits
+cookies
+crackers
+chips
+popcorn
+
+chocolate
+lollies
+candy
+gummy
+caramel
+marshmallow
+
+coffee
+instant coffee
+ground coffee
+coffee beans
+
+tea
+green tea
+black tea
+herbal tea
+
+juice
+orange juice
+apple juice
+pineapple juice
+
+soft drink
+cola
+lemonade
+ginger beer
+energy drink
+
+water
+sparkling water
+mineral water
+
+tomato sauce
+bbq sauce
+soy sauce
+chilli sauce
+mayonnaise
+mustard
+
+olive oil
+vegetable oil
+coconut oil
+
+vinegar
+balsamic vinegar
+
+jam
+peanut butter
+honey
+vegemite
+
+soup
+canned soup
+
+beans
+baked beans
+kidney beans
+chickpeas
+lentils
+
+tuna can
+salmon can
+corn can
+tomato can
+
+baby food
+baby formula
+baby wipes
+nappies
+diapers
+
+dog food
+cat food
+pet treats
+cat litter
+bird seed
+fish food
+
+shampoo
+conditioner
+body wash
+soap
+hand wash
+face wash
+
+toothpaste
+toothbrush
+mouthwash
+dental floss
+
+deodorant
+razor
+shaving cream
+
+lotion
+moisturiser
+sunscreen
+
+pain relief
+panadol
+ibuprofen
+cold medicine
+cough syrup
+vitamins
+supplements
+
+toilet paper
+paper towels
+tissues
+
+laundry detergent
+fabric softener
+dishwashing liquid
+dishwasher tablets
+
+bleach
+surface cleaner
+disinfectant
+garbage bags
+aluminium foil
+baking paper
+cling wrap
