@@ -888,7 +888,7 @@
     "productId": "/shop/productdetails/679543/grape-cotton-cotton-candy-grapes",
     "url": "https://www.woolworths.com.au/shop/productdetails/679543/grape-cotton-cotton-candy-grapes",
     "store_name": "Woolworths",
-    "product_name": "Cotton Candy\u00e2\u201e\u00a2 Grapes 400g"
+    "product_name": "Cotton Candy Grapes 400g"
   },
   {
     "term": "grape",
@@ -897,7 +897,7 @@
     "productId": "/shop/productdetails/266908/hello-candy-snaps-grapes",
     "url": "https://www.woolworths.com.au/shop/productdetails/266908/hello-candy-snaps-grapes",
     "store_name": "Woolworths",
-    "product_name": "Candy Snaps\u00e2\u201e\u00a2 Grapes 400g"
+    "product_name": "Candy Snaps Grapes 400g"
   },
   {
     "term": "grape",
@@ -915,7 +915,7 @@
     "productId": "/shop/productdetails/85417/grape-candy-hearts-grapes",
     "url": "https://www.woolworths.com.au/shop/productdetails/85417/grape-candy-hearts-grapes",
     "store_name": "Woolworths",
-    "product_name": "Candy Hearts\u00e2\u201e\u00a2 Grapes 400g"
+    "product_name": "Candy Hearts Grapes 400g"
   },
   {
     "term": "grape",
@@ -2571,7 +2571,7 @@
     "productId": "/shop/productdetails/1124966785/joybuy-oasis-470ml-insulated-food-pod-stainless-steel-rockmelon-color",
     "url": "https://www.woolworths.com.au/shop/productdetails/1124966785/joybuy-oasis-470ml-insulated-food-pod-stainless-steel-rockmelon-color",
     "store_name": "Woolworths",
-    "product_name": "JOYBUY Oasis 470ml Insulated Food Pod \u00e2\u20ac\u201c Stainless Steel, Rockmelon Color"
+    "product_name": "JOYBUY Oasis 470ml Insulated Food Pod â€“ Stainless Steel, Rockmelon Color"
   },
   {
     "term": "rockmelon",
@@ -2985,16 +2985,7 @@
     "productId": "/shop/productdetails/61078/perfection-fresh-mix-a-mato-tomatoes",
     "url": "https://www.woolworths.com.au/shop/productdetails/61078/perfection-fresh-mix-a-mato-tomatoes",
     "store_name": "Woolworths",
-    "product_name": "Perfection Fresh Mix-a-Mato\u00c2\u00ae Tomatoes 320g"
-  },
-  {
-    "term": "tomato",
-    "price": "$3.00",
-    "image": "https://assets.woolworths.com.au/images/1005/143123.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/143123/woolworths-tomato-grape-punnet",
-    "url": "https://www.woolworths.com.au/shop/productdetails/143123/woolworths-tomato-grape-punnet",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Tomato Grape Punnet 200g"
+    "product_name": "Perfection Fresh Mix-a-MatoÂ® Tomatoes 320g"
   },
   {
     "term": "tomato",
@@ -3364,33 +3355,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/219431/strong-roots-oven-baked-sweet-potato-fries",
     "store_name": "Woolworths",
     "product_name": "Strong Roots Oven Baked Sweet Potato Fries 500g"
-  },
-  {
-    "term": "sweet potato",
-    "price": "$1.96",
-    "image": "https://assets.woolworths.com.au/images/1005/147071.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/147071/sweet-potato-gold",
-    "url": "https://www.woolworths.com.au/shop/productdetails/147071/sweet-potato-gold",
-    "store_name": "Woolworths",
-    "product_name": "Sweet Potato Gold each"
-  },
-  {
-    "term": "sweet potato",
-    "price": "$4.90",
-    "image": "https://assets.woolworths.com.au/images/1005/156015.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/156015/woolworths-gold-sweet-potatoes-bag",
-    "url": "https://www.woolworths.com.au/shop/productdetails/156015/woolworths-gold-sweet-potatoes-bag",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Gold Sweet Potatoes Bag 1kg"
-  },
-  {
-    "term": "sweet potato",
-    "price": "$5.81",
-    "image": "https://assets.woolworths.com.au/images/1005/413886.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/413886/macro-organic-sweet-potato",
-    "url": "https://www.woolworths.com.au/shop/productdetails/413886/macro-organic-sweet-potato",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Sweet Potato each"
   },
   {
     "term": "sweet potato",
@@ -4042,15 +4006,6 @@
   },
   {
     "term": "ginger",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/169764.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/169764/the-food-company-garlic-ginger-shallots",
-    "url": "https://www.woolworths.com.au/shop/productdetails/169764/the-food-company-garlic-ginger-shallots",
-    "store_name": "Woolworths",
-    "product_name": "The Food Company Garlic, Ginger & Shallots 240g"
-  },
-  {
-    "term": "ginger",
     "price": "$5.00",
     "image": "https://assets.woolworths.com.au/images/1005/230684.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/230684/buderim-ginger-naked-uncrystallised-uncrystallised",
@@ -4528,24 +4483,6 @@
   },
   {
     "term": "broccoli",
-    "price": "$6.75",
-    "image": "https://assets.woolworths.com.au/images/1005/409952.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/409952/woolworths-washed-ready-to-cook-carrot-broccoli-cauliflower-mix",
-    "url": "https://www.woolworths.com.au/shop/productdetails/409952/woolworths-washed-ready-to-cook-carrot-broccoli-cauliflower-mix",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Washed & Ready To Cook Carrot Broccoli & Cauliflower Mix 750g"
-  },
-  {
-    "term": "broccoli",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/583617.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/583617/woolworths-carrots-broccoli-cauliflower-with-herb-butter",
-    "url": "https://www.woolworths.com.au/shop/productdetails/583617/woolworths-carrots-broccoli-cauliflower-with-herb-butter",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Carrots, Broccoli & Cauliflower With Herb Butter 200g"
-  },
-  {
-    "term": "broccoli",
     "price": "$5.60",
     "image": "https://assets.woolworths.com.au/images/1005/6006012.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6006012/birds-eye-deli-seasoned-sides-garlic-herb-broccoli",
@@ -4591,15 +4528,6 @@
   },
   {
     "term": "broccoli",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/6057744.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6057744/birds-eye-steamfresh-baby-potatoes-with-carrots-broccoli-peas-herb",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6057744/birds-eye-steamfresh-baby-potatoes-with-carrots-broccoli-peas-herb",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Steamfresh Baby Potatoes with Carrots Broccoli Peas & Herb 400g"
-  },
-  {
-    "term": "broccoli",
     "price": "$11.00",
     "image": "https://assets.woolworths.com.au/images/1005/6007022.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6007022/birds-eye-australian-garden-mix-broccoli-carrots-green-beans-capsicum",
@@ -4636,15 +4564,6 @@
   },
   {
     "term": "cauliflower",
-    "price": "$4.00",
-    "image": "https://assets.woolworths.com.au/images/1005/768561.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/768561/woolworths-broccoli-cauliflower",
-    "url": "https://www.woolworths.com.au/shop/productdetails/768561/woolworths-broccoli-cauliflower",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Broccoli & Cauliflower 500g"
-  },
-  {
-    "term": "cauliflower",
     "price": "$4.95",
     "image": "https://assets.woolworths.com.au/images/1005/802638.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/802638/birds-eye-veggie-rice-cauliflower",
@@ -4654,48 +4573,12 @@
   },
   {
     "term": "cauliflower",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/217969.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/217969/birds-eye-snap-frozen-carrot-cauliflower-broccoli",
-    "url": "https://www.woolworths.com.au/shop/productdetails/217969/birds-eye-snap-frozen-carrot-cauliflower-broccoli",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Snap Frozen Carrot, Cauliflower & Broccoli 1kg"
-  },
-  {
-    "term": "cauliflower",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/249382.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/249382/birds-eye-snap-frozen-mix-carrot-beans-broccoli-cauliflower-capsicum",
-    "url": "https://www.woolworths.com.au/shop/productdetails/249382/birds-eye-snap-frozen-mix-carrot-beans-broccoli-cauliflower-capsicum",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Snap Frozen Mix Carrot Beans Broccoli Cauliflower &Capsicum 1kg"
-  },
-  {
-    "term": "cauliflower",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/180752.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/180752/birds-eye-steam-fresh-carrot-cauliflower-broccoli",
-    "url": "https://www.woolworths.com.au/shop/productdetails/180752/birds-eye-steam-fresh-carrot-cauliflower-broccoli",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Steam Fresh Carrot, Cauliflower & Broccoli 750g"
-  },
-  {
-    "term": "cauliflower",
     "price": "$8.50",
     "image": "https://assets.woolworths.com.au/images/1005/6007000.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6007000/birds-eye-deli-cheesy-bakes-three-cheese-cauliflower-bake",
     "url": "https://www.woolworths.com.au/shop/productdetails/6007000/birds-eye-deli-cheesy-bakes-three-cheese-cauliflower-bake",
     "store_name": "Woolworths",
     "product_name": "Birds Eye Deli Cheesy Bakes Three Cheese Cauliflower Bake 600g"
-  },
-  {
-    "term": "cauliflower",
-    "price": "$3.00",
-    "image": "https://assets.woolworths.com.au/images/1005/313948.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/313948/bell-farms-frozen-broccoli-cauliflower",
-    "url": "https://www.woolworths.com.au/shop/productdetails/313948/bell-farms-frozen-broccoli-cauliflower",
-    "store_name": "Woolworths",
-    "product_name": "Bell Farms Frozen Broccoli & Cauliflower 500g"
   },
   {
     "term": "cauliflower",
@@ -4714,42 +4597,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/6057972/birds-eye-steamfresh-broccoli-carrots-cauliflower-with-cheese-sauce",
     "store_name": "Woolworths",
     "product_name": "Birds Eye Steamfresh Broccoli Carrots & Cauliflower With Cheese Sauce 400g"
-  },
-  {
-    "term": "cauliflower",
-    "price": "$11.00",
-    "image": "https://assets.woolworths.com.au/images/1005/6006914.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6006914/birds-eye-australian-grown-carrot-broccoli-cauliflower",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6006914/birds-eye-australian-grown-carrot-broccoli-cauliflower",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Australian Grown Carrot Broccoli & Cauliflower 2kg"
-  },
-  {
-    "term": "cauliflower",
-    "price": "$2.00",
-    "image": "https://assets.woolworths.com.au/images/1005/159054.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/159054/woolworths-washed-ready-to-cook-broccoli-cauliflower-florets",
-    "url": "https://www.woolworths.com.au/shop/productdetails/159054/woolworths-washed-ready-to-cook-broccoli-cauliflower-florets",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Washed & Ready To Cook Broccoli & Cauliflower Florets 150g"
-  },
-  {
-    "term": "cauliflower",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/583617.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/583617/woolworths-carrots-broccoli-cauliflower-with-herb-butter",
-    "url": "https://www.woolworths.com.au/shop/productdetails/583617/woolworths-carrots-broccoli-cauliflower-with-herb-butter",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Carrots, Broccoli & Cauliflower With Herb Butter 200g"
-  },
-  {
-    "term": "cauliflower",
-    "price": "$6.75",
-    "image": "https://assets.woolworths.com.au/images/1005/409952.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/409952/woolworths-washed-ready-to-cook-carrot-broccoli-cauliflower-mix",
-    "url": "https://www.woolworths.com.au/shop/productdetails/409952/woolworths-washed-ready-to-cook-carrot-broccoli-cauliflower-mix",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Washed & Ready To Cook Carrot Broccoli & Cauliflower Mix 750g"
   },
   {
     "term": "cauliflower",
@@ -5465,15 +5312,6 @@
   {
     "term": "kale",
     "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/54901.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/54901/woolworths-kale-baby-spinach",
-    "url": "https://www.woolworths.com.au/shop/productdetails/54901/woolworths-kale-baby-spinach",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Kale & Baby Spinach 300g"
-  },
-  {
-    "term": "kale",
-    "price": "$5.00",
     "image": "https://assets.woolworths.com.au/images/1005/817501.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/817501/macro-organic-chopped-kale-portions",
     "url": "https://www.woolworths.com.au/shop/productdetails/817501/macro-organic-chopped-kale-portions",
@@ -6130,21 +5968,12 @@
   },
   {
     "term": "capsicum",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/249382.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/249382/birds-eye-snap-frozen-mix-carrot-beans-broccoli-cauliflower-capsicum",
-    "url": "https://www.woolworths.com.au/shop/productdetails/249382/birds-eye-snap-frozen-mix-carrot-beans-broccoli-cauliflower-capsicum",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Snap Frozen Mix Carrot Beans Broccoli Cauliflower &Capsicum 1kg"
-  },
-  {
-    "term": "capsicum",
     "price": "$4.00",
     "image": "https://assets.woolworths.com.au/images/1005/387035.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/387035/red-rock-deli-roasted-red-capsicum-pecorino-cashews-basil-dip",
     "url": "https://www.woolworths.com.au/shop/productdetails/387035/red-rock-deli-roasted-red-capsicum-pecorino-cashews-basil-dip",
     "store_name": "Woolworths",
-    "product_name": "Red Rock Deli Roasted Red Capsicum Pecorino Cashews & Basil\u00c2\u00a0Dip 135g"
+    "product_name": "Red Rock Deli Roasted Red Capsicum Pecorino Cashews & BasilÂ Dip 135g"
   },
   {
     "term": "capsicum",
@@ -6190,15 +6019,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/626243/yumi-s-roasted-capsicum-cashew-dip",
     "store_name": "Woolworths",
     "product_name": "Yumi's Roasted Capsicum & Cashew Dip 200g"
-  },
-  {
-    "term": "capsicum",
-    "price": "$11.00",
-    "image": "https://assets.woolworths.com.au/images/1005/6007022.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6007022/birds-eye-australian-garden-mix-broccoli-carrots-green-beans-capsicum",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6007022/birds-eye-australian-garden-mix-broccoli-carrots-green-beans-capsicum",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Australian Garden Mix Broccoli Carrots Green Beans Capsicum 2kg"
   },
   {
     "term": "capsicum",
@@ -6724,24 +6544,6 @@
   },
   {
     "term": "peas",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/54233.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/54233/mccain-mixed-vegetables-peas-corn-carrot",
-    "url": "https://www.woolworths.com.au/shop/productdetails/54233/mccain-mixed-vegetables-peas-corn-carrot",
-    "store_name": "Woolworths",
-    "product_name": "McCain Mixed Vegetables Peas Corn & Carrot 500g"
-  },
-  {
-    "term": "peas",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/768569.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/768569/woolworths-carrots-peas-corn",
-    "url": "https://www.woolworths.com.au/shop/productdetails/768569/woolworths-carrots-peas-corn",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Carrots Peas & Corn 1kg"
-  },
-  {
-    "term": "peas",
     "price": "$6.50",
     "image": "https://assets.woolworths.com.au/images/1005/705677.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/705677/birds-eye-australian-snap-frozen-mixed-vegetables-peas-corn",
@@ -6769,30 +6571,12 @@
   },
   {
     "term": "peas",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/705695.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/705695/birds-eye-australian-spring-greens-mix-green-beans-peas-broccoli",
-    "url": "https://www.woolworths.com.au/shop/productdetails/705695/birds-eye-australian-spring-greens-mix-green-beans-peas-broccoli",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Australian Spring Greens Mix Green Beans, Peas & Broccoli 1kg"
-  },
-  {
-    "term": "peas",
     "price": "$12.90",
     "image": "https://assets.woolworths.com.au/images/1005/322789.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/322789/mccain-mixed-vegetables-peas-corn-carrot",
     "url": "https://www.woolworths.com.au/shop/productdetails/322789/mccain-mixed-vegetables-peas-corn-carrot",
     "store_name": "Woolworths",
     "product_name": "McCain Mixed Vegetables Peas Corn & Carrot 2kg"
-  },
-  {
-    "term": "peas",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/782977.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/782977/birds-eye-steam-fresh-peas-beans-broccoli-corn-mix",
-    "url": "https://www.woolworths.com.au/shop/productdetails/782977/birds-eye-steam-fresh-peas-beans-broccoli-corn-mix",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Steam Fresh Peas Beans Broccoli Corn Mix 750g"
   },
   {
     "term": "peas",
@@ -6937,15 +6721,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/874927/mckenzie-s-black-beans",
     "store_name": "Woolworths",
     "product_name": "McKenzie's Black Beans 375g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.60",
-    "image": "https://assets.woolworths.com.au/images/1005/220157.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/220157/edgell-snack-time-black-beans-charred-capsicum-with-zesty-salsa",
-    "url": "https://www.woolworths.com.au/shop/productdetails/220157/edgell-snack-time-black-beans-charred-capsicum-with-zesty-salsa",
-    "store_name": "Woolworths",
-    "product_name": "Edgell Snack Time Black Beans Charred & Capsicum With Zesty Salsa 70g"
   },
   {
     "term": "mushroom",
@@ -7912,15 +7687,6 @@
   },
   {
     "term": "pumpkin",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/30758.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/30758/woolworths-diced-pumpkin-sweet-potato",
-    "url": "https://www.woolworths.com.au/shop/productdetails/30758/woolworths-diced-pumpkin-sweet-potato",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Diced Pumpkin & Sweet Potato 500g"
-  },
-  {
-    "term": "pumpkin",
     "price": "$4.90",
     "image": "https://assets.woolworths.com.au/images/1005/685740.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/685740/organic-pumpkin-butternut",
@@ -8269,15 +8035,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/79173/macro-organic-lebanese-cucumber",
     "store_name": "Woolworths",
     "product_name": "Macro Organic Lebanese Cucumber 350g"
-  },
-  {
-    "term": "cucumber",
-    "price": "$2.40",
-    "image": "https://assets.woolworths.com.au/images/1005/111427.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/111427/woolworths-green-juice-blend-apple-cucumber-spinach",
-    "url": "https://www.woolworths.com.au/shop/productdetails/111427/woolworths-green-juice-blend-apple-cucumber-spinach",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Green Juice Blend Apple Cucumber & Spinach 500mL"
   },
   {
     "term": "herbs",
@@ -9280,24 +9037,6 @@
   },
   {
     "term": "white bread",
-    "price": "$4.60",
-    "image": "https://assets.woolworths.com.au/images/1005/263669.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/263669/wonder-white-bread-vitamins-minerals-sandwich",
-    "url": "https://www.woolworths.com.au/shop/productdetails/263669/wonder-white-bread-vitamins-minerals-sandwich",
-    "store_name": "Woolworths",
-    "product_name": "Wonder White Bread Vitamins & Minerals Sandwich 700g"
-  },
-  {
-    "term": "white bread",
-    "price": "$4.60",
-    "image": "https://assets.woolworths.com.au/images/1005/263667.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/263667/wonder-white-bread-vitamins-minerals-toast",
-    "url": "https://www.woolworths.com.au/shop/productdetails/263667/wonder-white-bread-vitamins-minerals-toast",
-    "store_name": "Woolworths",
-    "product_name": "Wonder White Bread Vitamins & Minerals Toast 700g"
-  },
-  {
-    "term": "white bread",
     "price": "$5.20",
     "image": "https://assets.woolworths.com.au/images/1005/690672.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/690672/abbott-s-bakery-rustic-white-bread-sandwich-slice-loaf",
@@ -9322,15 +9061,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/331591/abbott-s-bakery-farmhouse-wholemeal-bread-sandwich-slice-loaf",
     "store_name": "Woolworths",
     "product_name": "Abbott's Bakery Farmhouse Wholemeal Bread Sandwich Slice Loaf 750g"
-  },
-  {
-    "term": "wholemeal bread",
-    "price": "$4.60",
-    "image": "https://assets.woolworths.com.au/images/1005/749588.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/749588/tip-top-the-one-wholemeal-bread-sandwich-slice-loaf-bakery",
-    "url": "https://www.woolworths.com.au/shop/productdetails/749588/tip-top-the-one-wholemeal-bread-sandwich-slice-loaf-bakery",
-    "store_name": "Woolworths",
-    "product_name": "Tip Top The One Wholemeal Bread Sandwich Slice Loaf Bakery 700g"
   },
   {
     "term": "wholemeal bread",
@@ -9550,15 +9280,6 @@
   },
   {
     "term": "wraps",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/182083.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/182083/helga-s-wraps-spinach-herb",
-    "url": "https://www.woolworths.com.au/shop/productdetails/182083/helga-s-wraps-spinach-herb",
-    "store_name": "Woolworths",
-    "product_name": "Helga's Wraps Spinach & Herb 7 pack"
-  },
-  {
-    "term": "wraps",
     "price": "$4.50",
     "image": "https://assets.woolworths.com.au/images/1005/320194.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/320194/mission-wraps-original",
@@ -9601,15 +9322,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/384286/mission-wraps-wholegrain",
     "store_name": "Woolworths",
     "product_name": "Mission Wraps Wholegrain 8 pack"
-  },
-  {
-    "term": "wraps",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/320197.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/320197/mission-wraps-spinach-herb",
-    "url": "https://www.woolworths.com.au/shop/productdetails/320197/mission-wraps-spinach-herb",
-    "store_name": "Woolworths",
-    "product_name": "Mission Wraps Spinach & Herb 8 pack"
   },
   {
     "term": "wraps",
@@ -10009,15 +9721,6 @@
   },
   {
     "term": "english muffins",
-    "price": "$6.90",
-    "image": "https://assets.woolworths.com.au/images/1005/6066586.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6066586/abbott-s-bakery-sourdough-english-muffins-white",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6066586/abbott-s-bakery-sourdough-english-muffins-white",
-    "store_name": "Woolworths",
-    "product_name": "Abbott's Bakery Sourdough English Muffins White 6 pack"
-  },
-  {
-    "term": "english muffins",
     "price": "$5.00",
     "image": "https://assets.woolworths.com.au/images/1005/297150.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/297150/toscano-brioche-english-muffins-classic",
@@ -10033,15 +9736,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/275386/macro-wholefoods-market-high-protein-linseed-sunflower-english-muffins",
     "store_name": "Woolworths",
     "product_name": "Macro Wholefoods Market High Protein Linseed & Sunflower English Muffins 6 pack"
-  },
-  {
-    "term": "english muffins",
-    "price": "$6.90",
-    "image": "https://assets.woolworths.com.au/images/1005/6065987.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6065987/abbott-s-bakery-sourdough-english-muffins-rye",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6065987/abbott-s-bakery-sourdough-english-muffins-rye",
-    "store_name": "Woolworths",
-    "product_name": "Abbott's Bakery Sourdough English Muffins Rye 6 pack"
   },
   {
     "term": "english muffins",
@@ -10414,129 +10108,12 @@
   },
   {
     "term": "full cream milk",
-    "price": "$4.70",
-    "image": "https://assets.woolworths.com.au/images/1005/405010.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/405010/farmhouse-gold-full-cream-milk-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/405010/farmhouse-gold-full-cream-milk-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Farmhouse Gold Full Cream Milk 1.5L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$3.15",
-    "image": "https://assets.woolworths.com.au/images/1005/404980.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/404980/farmhouse-gold-full-cream-milk-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/404980/farmhouse-gold-full-cream-milk-milk",
-    "store_name": "Woolworths",
-    "product_name": "Farmhouse Gold Full Cream Milk 750mL"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$6.80",
-    "image": "https://assets.woolworths.com.au/images/1005/785722.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/785722/pauls-zymil-lactose-free-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/785722/pauls-zymil-lactose-free-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Pauls Zymil Lactose Free Full Cream Milk 2L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$4.65",
-    "image": "https://assets.woolworths.com.au/images/1005/888140.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/888140/woolworths-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/888140/woolworths-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Full Cream Milk 3L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$3.20",
-    "image": "https://assets.woolworths.com.au/images/1005/888137.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/888137/woolworths-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/888137/woolworths-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Full Cream Milk 2L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/88436.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/88436/dairy-farmers-full-cream-milk-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/88436/dairy-farmers-full-cream-milk-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Dairy Farmers Full Cream Milk 2L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$1.65",
-    "image": "https://assets.woolworths.com.au/images/1005/50923.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/50923/woolworths-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/50923/woolworths-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Full Cream Milk 1L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$2.90",
-    "image": "https://assets.woolworths.com.au/images/1005/145536.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/145536/dairy-farmers-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/145536/dairy-farmers-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Dairy Farmers Full Cream Milk 1L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/64746.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/64746/dairy-farmers-full-cream-milk-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/64746/dairy-farmers-full-cream-milk-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Dairy Farmers Full Cream Milk 3L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$3.90",
-    "image": "https://assets.woolworths.com.au/images/1005/261178.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/261178/pauls-zymil-lactose-free-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/261178/pauls-zymil-lactose-free-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Pauls Zymil Lactose Free Full Cream Milk 1L"
-  },
-  {
-    "term": "full cream milk",
     "price": "$9.50",
     "image": "https://assets.woolworths.com.au/images/1005/155909.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/155909/pauls-zymil-lactose-free-full-cream-milk",
     "url": "https://www.woolworths.com.au/shop/productdetails/155909/pauls-zymil-lactose-free-full-cream-milk",
     "store_name": "Woolworths",
     "product_name": "Pauls Zymil Lactose Free Full Cream Milk 3L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$4.75",
-    "image": "https://assets.woolworths.com.au/images/1005/113887.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/113887/riverina-fresh-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/113887/riverina-fresh-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Riverina Fresh Full Cream Milk 2L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$4.70",
-    "image": "https://assets.woolworths.com.au/images/1005/44528.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/44528/norco-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/44528/norco-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Norco Full Cream Milk 2L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$2.50",
-    "image": "https://assets.woolworths.com.au/images/1005/365569.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/365569/macro-organic-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/365569/macro-organic-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Full Cream Milk 1L"
   },
   {
     "term": "full cream milk",
@@ -10549,39 +10126,12 @@
   },
   {
     "term": "full cream milk",
-    "price": "$6.70",
-    "image": "https://assets.woolworths.com.au/images/1005/56591.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/56591/norco-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/56591/norco-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Norco Full Cream Milk 3L"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$2.90",
-    "image": "https://assets.woolworths.com.au/images/1005/316080.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/316080/norco-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/316080/norco-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Norco Full Cream Milk 1L"
-  },
-  {
-    "term": "full cream milk",
     "price": "$1.85",
     "image": "https://assets.woolworths.com.au/images/1005/412172.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/412172/norco-full-cream-milk",
     "url": "https://www.woolworths.com.au/shop/productdetails/412172/norco-full-cream-milk",
     "store_name": "Woolworths",
     "product_name": "Norco Full Cream Milk 500mL"
-  },
-  {
-    "term": "full cream milk",
-    "price": "$3.20",
-    "image": "https://assets.woolworths.com.au/images/1005/665750.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/665750/woolworths-free-from-lactose-full-cream-milk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/665750/woolworths-free-from-lactose-full-cream-milk",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Free From Lactose Full Cream Milk 1L"
   },
   {
     "term": "full cream milk",
@@ -11233,15 +10783,6 @@
   },
   {
     "term": "mozzarella",
-    "price": "$6.00",
-    "image": "https://assets.woolworths.com.au/images/1005/6024923.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6024923/la-casa-mozzarella-string-cheese-sticks",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6024923/la-casa-mozzarella-string-cheese-sticks",
-    "store_name": "Woolworths",
-    "product_name": "La Casa Mozzarella String Cheese Sticks 160g"
-  },
-  {
-    "term": "mozzarella",
     "price": "$8.30",
     "image": "https://assets.woolworths.com.au/images/1005/728983.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/728983/woolworths-mozzarella-shredded-cheese",
@@ -11320,24 +10861,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/334934/devondale-shredded-mozzarella-cheese",
     "store_name": "Woolworths",
     "product_name": "Devondale Shredded Mozzarella Cheese 600g"
-  },
-  {
-    "term": "mozzarella",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/150419.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/150419/woolworths-mozzarella-cheddar-parmesan-shredded-blend",
-    "url": "https://www.woolworths.com.au/shop/productdetails/150419/woolworths-mozzarella-cheddar-parmesan-shredded-blend",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Mozzarella Cheddar & Parmesan Shredded Blend 250g"
-  },
-  {
-    "term": "mozzarella",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/136462.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/136462/woolworths-shredded-mozzarella-cheddar-pecorino-blend",
-    "url": "https://www.woolworths.com.au/shop/productdetails/136462/woolworths-shredded-mozzarella-cheddar-pecorino-blend",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Shredded Mozzarella Cheddar & Pecorino Blend 250g"
   },
   {
     "term": "mozzarella",
@@ -11590,15 +11113,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/859721/perfect-italiano-parmesan-romano-cheese-block-cheese-block",
     "store_name": "Woolworths",
     "product_name": "Perfect Italiano Parmesan Romano Cheese Block 200g"
-  },
-  {
-    "term": "parmesan",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/150419.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/150419/woolworths-mozzarella-cheddar-parmesan-shredded-blend",
-    "url": "https://www.woolworths.com.au/shop/productdetails/150419/woolworths-mozzarella-cheddar-parmesan-shredded-blend",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Mozzarella Cheddar & Parmesan Shredded Blend 250g"
   },
   {
     "term": "parmesan",
@@ -12381,7 +11895,7 @@
     "productId": "/shop/productdetails/31727/western-star-original-spreadable-butter-blend-tub",
     "url": "https://www.woolworths.com.au/shop/productdetails/31727/western-star-original-spreadable-butter-blend-tub",
     "store_name": "Woolworths",
-    "product_name": "Western Star Original Spreadable Butter Blend\u00c2\u00a0Tub 375g"
+    "product_name": "Western Star Original Spreadable Butter BlendÂ Tub 375g"
   },
   {
     "term": "butter",
@@ -13024,150 +12538,6 @@
   },
   {
     "term": "free range eggs",
-    "price": "$12.70",
-    "image": "https://assets.woolworths.com.au/images/1005/771237.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/771237/sunny-queen-18-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/771237/sunny-queen-18-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Sunny Queen 18 Large Free Range Eggs 900g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$8.80",
-    "image": "https://assets.woolworths.com.au/images/1005/77170.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/77170/sunny-queen-12-extra-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/77170/sunny-queen-12-extra-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Sunny Queen 12 Extra Large Free Range Eggs 700g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$8.70",
-    "image": "https://assets.woolworths.com.au/images/1005/313900.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/313900/manning-valley-12-extra-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/313900/manning-valley-12-extra-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Manning Valley 12 Extra Large Free Range Eggs 700g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/224763.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/224763/woolworths-12-x-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/224763/woolworths-12-x-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths 12 X-Large Free Range Eggs 700g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$4.90",
-    "image": "https://assets.woolworths.com.au/images/1005/700426.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/700426/woolworths-6-extra-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/700426/woolworths-6-extra-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths 6 Extra Large Free Range Eggs 350g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$10.60",
-    "image": "https://assets.woolworths.com.au/images/1005/191726.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/191726/macro-12-large-organic-australian-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/191726/macro-12-large-organic-australian-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Macro 12 Large Organic Australian Free Range Eggs 600g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$13.00",
-    "image": "https://assets.woolworths.com.au/images/1005/140770.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/140770/sunny-queen-12-extra-large-organic-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/140770/sunny-queen-12-extra-large-organic-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Sunny Queen 12 Extra Large Organic Free Range Eggs 700g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$9.90",
-    "image": "https://assets.woolworths.com.au/images/1005/363392.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/363392/manning-valley-12-jumbo-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/363392/manning-valley-12-jumbo-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Manning Valley 12 Jumbo Free Range Eggs 800g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$14.00",
-    "image": "https://assets.woolworths.com.au/images/1005/140588.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/140588/yallamundi-farm-organic-12-extra-large-free",
-    "url": "https://www.woolworths.com.au/shop/productdetails/140588/yallamundi-farm-organic-12-extra-large-free",
-    "store_name": "Woolworths",
-    "product_name": "Yallamundi Farm Organic 12 Extra Large Free Range Eggs 700g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$6.20",
-    "image": "https://assets.woolworths.com.au/images/1005/224762.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/224762/woolworths-12-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/224762/woolworths-12-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths 12 Large Free Range Eggs 600g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$11.00",
-    "image": "https://assets.woolworths.com.au/images/1005/203576.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/203576/yallamundi-farm-12-extra-large-pasture-raised-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/203576/yallamundi-farm-12-extra-large-pasture-raised-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Yallamundi Farm 12 Extra Large Pasture Raised Free Range Eggs 700g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$12.00",
-    "image": "https://assets.woolworths.com.au/images/1005/689556.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/689556/manning-valley-18-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/689556/manning-valley-18-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Manning Valley 18 Large Free Range Eggs 900g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$8.50",
-    "image": "https://assets.woolworths.com.au/images/1005/240029.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/240029/macro-12-large-pasture-raised-carbon-neutral-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/240029/macro-12-large-pasture-raised-carbon-neutral-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Macro 12 Large Pasture Raised Carbon Neutral Free Range Eggs 600g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$7.65",
-    "image": "https://assets.woolworths.com.au/images/1005/206063.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/206063/yallamundi-farm-6-large-organic-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/206063/yallamundi-farm-6-large-organic-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Yallamundi Farm 6 Large Organic Free Range Eggs 300g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$7.60",
-    "image": "https://assets.woolworths.com.au/images/1005/117784.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/117784/open-range-12-large-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/117784/open-range-12-large-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Open Range 12 Large Free Range Eggs 700g"
-  },
-  {
-    "term": "free range eggs",
-    "price": "$20.20",
-    "image": "https://assets.woolworths.com.au/images/1005/165830.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/165830/manning-valley-30-free-range-eggs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/165830/manning-valley-30-free-range-eggs",
-    "store_name": "Woolworths",
-    "product_name": "Manning Valley 30 Free Range Eggs 1.65kg"
-  },
-  {
-    "term": "free range eggs",
     "price": null,
     "image": "https://assets.woolworths.com.au/images/1005/386024.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/386024/ash-sons-12-x-large-free-range-eggs",
@@ -13438,96 +12808,6 @@
   },
   {
     "term": "chicken breast",
-    "price": "$2.98\n            / 350G",
-    "image": "https://assets.woolworths.com.au/images/1005/710953.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/710953/woolworths-rspca-approved-chicken-breast-fillet",
-    "url": "https://www.woolworths.com.au/shop/productdetails/710953/woolworths-rspca-approved-chicken-breast-fillet",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Breast Fillet per 350g"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$18.70",
-    "image": "https://assets.woolworths.com.au/images/1005/969723.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/969723/woolworths-rspca-approved-chicken-breast-fillet",
-    "url": "https://www.woolworths.com.au/shop/productdetails/969723/woolworths-rspca-approved-chicken-breast-fillet",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Breast Fillet 1.3kg - 1.7kg"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$19.60",
-    "image": "https://assets.woolworths.com.au/images/1005/700228.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/700228/macro-chicken-breast-fillets-free-range",
-    "url": "https://www.woolworths.com.au/shop/productdetails/700228/macro-chicken-breast-fillets-free-range",
-    "store_name": "Woolworths",
-    "product_name": "Macro Chicken Breast Fillets Free Range 700g - 1.4kg"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$9.43",
-    "image": "https://assets.woolworths.com.au/images/1005/119259.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/119259/woolworths-rspca-approved-chicken-breast-fillet-skinless-small",
-    "url": "https://www.woolworths.com.au/shop/productdetails/119259/woolworths-rspca-approved-chicken-breast-fillet-skinless-small",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Breast Fillet Skinless Small 500g - 650g"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$15.50",
-    "image": "https://assets.woolworths.com.au/images/1005/114261.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/114261/woolworths-rspca-approved-chicken-breast-diced",
-    "url": "https://www.woolworths.com.au/shop/productdetails/114261/woolworths-rspca-approved-chicken-breast-diced",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Breast Diced 1kg"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/353754.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/353754/woolworths-rspca-approved-chicken-breast-diced",
-    "url": "https://www.woolworths.com.au/shop/productdetails/353754/woolworths-rspca-approved-chicken-breast-diced",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Breast Diced 500g"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$16.20",
-    "image": "https://assets.woolworths.com.au/images/1005/184628.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/184628/macro-chicken-breast-fillets-free-range",
-    "url": "https://www.woolworths.com.au/shop/productdetails/184628/macro-chicken-breast-fillets-free-range",
-    "store_name": "Woolworths",
-    "product_name": "Macro Chicken Breast Fillets Free Range 400g - 900g"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/114253.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/114253/woolworths-rspca-approved-chicken-breast-schnitzels",
-    "url": "https://www.woolworths.com.au/shop/productdetails/114253/woolworths-rspca-approved-chicken-breast-schnitzels",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Breast Schnitzels 500g"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$11.50",
-    "image": "https://assets.woolworths.com.au/images/1005/114251.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/114251/macro-free-range-chicken-breast-schnitzel",
-    "url": "https://www.woolworths.com.au/shop/productdetails/114251/macro-free-range-chicken-breast-schnitzel",
-    "store_name": "Woolworths",
-    "product_name": "Macro Free Range Chicken Breast Schnitzel 500g"
-  },
-  {
-    "term": "chicken breast",
-    "price": "$11.50",
-    "image": "https://assets.woolworths.com.au/images/1005/354066.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/354066/macro-free-range-diced-chicken-breast",
-    "url": "https://www.woolworths.com.au/shop/productdetails/354066/macro-free-range-diced-chicken-breast",
-    "store_name": "Woolworths",
-    "product_name": "Macro Free Range Diced Chicken Breast 500g"
-  },
-  {
-    "term": "chicken breast",
     "price": "$13.00",
     "image": "https://assets.woolworths.com.au/images/1005/902837.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/902837/the-bare-bird-free-range-chicken-breast-fillets",
@@ -13663,24 +12943,6 @@
   },
   {
     "term": "chicken thigh",
-    "price": "$19.25",
-    "image": "https://assets.woolworths.com.au/images/1005/764859.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/764859/macro-free-range-chicken-thigh-fillet",
-    "url": "https://www.woolworths.com.au/shop/productdetails/764859/macro-free-range-chicken-thigh-fillet",
-    "store_name": "Woolworths",
-    "product_name": "Macro Free Range Chicken Thigh Fillet 800g - 1.1kg"
-  },
-  {
-    "term": "chicken thigh",
-    "price": "$25.50",
-    "image": "https://assets.woolworths.com.au/images/1005/727622.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/727622/woolworths-rspca-approved-chicken-thigh-fillets-skinless-tray",
-    "url": "https://www.woolworths.com.au/shop/productdetails/727622/woolworths-rspca-approved-chicken-thigh-fillets-skinless-tray",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Thigh Fillets Skinless Tray 1.3kg - 1.7kg"
-  },
-  {
-    "term": "chicken thigh",
     "price": "$11.00",
     "image": "https://assets.woolworths.com.au/images/1005/184649.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/184649/macro-chicken-thigh-fillets-free-range",
@@ -13786,24 +13048,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/23208/woolworths-rspca-approved-chicken-drumsticks",
     "store_name": "Woolworths",
     "product_name": "Woolworths RSPCA Approved Chicken Drumsticks per 150g"
-  },
-  {
-    "term": "chicken drumsticks",
-    "price": "$8.00",
-    "image": "https://assets.woolworths.com.au/images/1005/268605.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/268605/woolworths-rspca-approved-chicken-drumsticks",
-    "url": "https://www.woolworths.com.au/shop/productdetails/268605/woolworths-rspca-approved-chicken-drumsticks",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Drumsticks 2kg"
-  },
-  {
-    "term": "chicken drumsticks",
-    "price": "$8.16",
-    "image": "https://assets.woolworths.com.au/images/1005/140481.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/140481/woolworths-rspca-approved-chicken-drumsticks-bulk",
-    "url": "https://www.woolworths.com.au/shop/productdetails/140481/woolworths-rspca-approved-chicken-drumsticks-bulk",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths RSPCA Approved Chicken Drumsticks Bulk 1.1kg - 1.7kg"
   },
   {
     "term": "chicken drumsticks",
@@ -14131,15 +13375,6 @@
   },
   {
     "term": "beef mince",
-    "price": "$14.50",
-    "image": "https://assets.woolworths.com.au/images/1005/672975.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/672975/macro-organic-lean-beef-mince",
-    "url": "https://www.woolworths.com.au/shop/productdetails/672975/macro-organic-lean-beef-mince",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Lean Beef Mince 500g"
-  },
-  {
-    "term": "beef mince",
     "price": "$14.00",
     "image": "https://assets.woolworths.com.au/images/1005/321551.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/321551/macro-organic-extra-lean-beef-mince",
@@ -14212,93 +13447,12 @@
   },
   {
     "term": "steak",
-    "price": "$18.00",
-    "image": "https://assets.woolworths.com.au/images/1005/243050.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/243050/woolworths-beef-porterhouse-steak-butter",
-    "url": "https://www.woolworths.com.au/shop/productdetails/243050/woolworths-beef-porterhouse-steak-butter",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Porterhouse Steak & Butter 400g"
-  },
-  {
-    "term": "steak",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/317293.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/317293/woolworths-beef-scotch-fillet-steak",
-    "url": "https://www.woolworths.com.au/shop/productdetails/317293/woolworths-beef-scotch-fillet-steak",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Scotch Fillet Steak 170g"
-  },
-  {
-    "term": "steak",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/236846.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/236846/woolworths-beef-rump-steak",
-    "url": "https://www.woolworths.com.au/shop/productdetails/236846/woolworths-beef-rump-steak",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Rump Steak 250g"
-  },
-  {
-    "term": "steak",
     "price": "$9.00",
     "image": "https://assets.woolworths.com.au/images/1005/317294.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/317294/woolworths-beef-porterhouse-steak",
     "url": "https://www.woolworths.com.au/shop/productdetails/317294/woolworths-beef-porterhouse-steak",
     "store_name": "Woolworths",
     "product_name": "Woolworths Beef Porterhouse Steak 180g"
-  },
-  {
-    "term": "steak",
-    "price": "$24.00",
-    "image": "https://assets.woolworths.com.au/images/1005/675315.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/675315/woolworths-beef-eye-fillet-steak",
-    "url": "https://www.woolworths.com.au/shop/productdetails/675315/woolworths-beef-eye-fillet-steak",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Eye Fillet Steak 200g - 500g"
-  },
-  {
-    "term": "steak",
-    "price": "$13.00",
-    "image": "https://assets.woolworths.com.au/images/1005/686853.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/686853/woolworths-beef-sizzle-steak",
-    "url": "https://www.woolworths.com.au/shop/productdetails/686853/woolworths-beef-sizzle-steak",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Sizzle Steak 400g"
-  },
-  {
-    "term": "steak",
-    "price": "$18.00",
-    "image": "https://assets.woolworths.com.au/images/1005/285094.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/285094/macro-grass-fed-beef-porterhouse-steaks-2-pack",
-    "url": "https://www.woolworths.com.au/shop/productdetails/285094/macro-grass-fed-beef-porterhouse-steaks-2-pack",
-    "store_name": "Woolworths",
-    "product_name": "Macro Grass Fed Beef Porterhouse Steaks 2 Pack 400g"
-  },
-  {
-    "term": "steak",
-    "price": "$8.00",
-    "image": "https://assets.woolworths.com.au/images/1005/54241.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/54241/woolworths-cook-beef-pepper-steaks",
-    "url": "https://www.woolworths.com.au/shop/productdetails/54241/woolworths-cook-beef-pepper-steaks",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Cook Beef Pepper Steaks 300g"
-  },
-  {
-    "term": "steak",
-    "price": "$15.00",
-    "image": "https://assets.woolworths.com.au/images/1005/6022457.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6022457/woolworths-australian-beef-rump-steak-medallions",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6022457/woolworths-australian-beef-rump-steak-medallions",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Australian Beef Rump Steak Medallions 340g"
-  },
-  {
-    "term": "steak",
-    "price": "$13.00",
-    "image": "https://assets.woolworths.com.au/images/1005/285093.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/285093/macro-grass-fed-beef-rump-steak",
-    "url": "https://www.woolworths.com.au/shop/productdetails/285093/macro-grass-fed-beef-rump-steak",
-    "store_name": "Woolworths",
-    "product_name": "Macro Grass Fed Beef Rump Steak 300g"
   },
   {
     "term": "steak",
@@ -14311,39 +13465,12 @@
   },
   {
     "term": "steak",
-    "price": "$21.75",
-    "image": "https://assets.woolworths.com.au/images/1005/675318.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/675318/woolworths-beef-rump-steak-medium",
-    "url": "https://www.woolworths.com.au/shop/productdetails/675318/woolworths-beef-rump-steak-medium",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Rump Steak Medium 270g - 750g"
-  },
-  {
-    "term": "steak",
     "price": "$37.20",
     "image": "https://assets.woolworths.com.au/images/1005/675654.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/675654/woolworths-beef-scotch-fillet-steak-medium",
     "url": "https://www.woolworths.com.au/shop/productdetails/675654/woolworths-beef-scotch-fillet-steak-medium",
     "store_name": "Woolworths",
     "product_name": "Woolworths Beef Scotch Fillet Steak Medium 280g - 800g"
-  },
-  {
-    "term": "steak",
-    "price": "$16.75",
-    "image": "https://assets.woolworths.com.au/images/1005/675479.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/675479/woolworths-beef-oyster-blade-steak",
-    "url": "https://www.woolworths.com.au/shop/productdetails/675479/woolworths-beef-oyster-blade-steak",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Oyster Blade Steak 600g"
-  },
-  {
-    "term": "steak",
-    "price": "$16.00",
-    "image": "https://assets.woolworths.com.au/images/1005/675632.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/675632/woolworths-beef-chuck-steak-medium",
-    "url": "https://www.woolworths.com.au/shop/productdetails/675632/woolworths-beef-chuck-steak-medium",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Beef Chuck Steak Medium 380g - 800g"
   },
   {
     "term": "steak",
@@ -14688,24 +13815,6 @@
     "product_name": "Woolworths Succulent Pork Loin Roast 750g"
   },
   {
-    "term": "pork chops",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/185960.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/185960/woolworths-moisture-infused-pork-chops",
-    "url": "https://www.woolworths.com.au/shop/productdetails/185960/woolworths-moisture-infused-pork-chops",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Moisture Infused Pork Chops 400g"
-  },
-  {
-    "term": "pork chops",
-    "price": "$24.00",
-    "image": "https://assets.woolworths.com.au/images/1005/710886.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/710886/woolworths-moisture-infused-pork-chops",
-    "url": "https://www.woolworths.com.au/shop/productdetails/710886/woolworths-moisture-infused-pork-chops",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Moisture Infused Pork Chops 1.2kg"
-  },
-  {
     "term": "bacon",
     "price": "$1.88\n            / 125G",
     "image": "https://assets.woolworths.com.au/images/1005/71841.jpg?impolicy=wowsmkqiema&w=260&h=260",
@@ -14920,15 +14029,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/55373/woolworths-smoked-australian-shortcut-bacon",
     "store_name": "Woolworths",
     "product_name": "Woolworths Smoked Australian Shortcut Bacon 200g"
-  },
-  {
-    "term": "ham",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/65887.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/65887/primo-stackers-leg-ham-cheddar-cheese-crackers",
-    "url": "https://www.woolworths.com.au/shop/productdetails/65887/primo-stackers-leg-ham-cheddar-cheese-crackers",
-    "store_name": "Woolworths",
-    "product_name": "Primo Stackers Leg Ham Cheddar Cheese & Crackers 50g"
   },
   {
     "term": "ham",
@@ -15157,30 +14257,12 @@
   },
   {
     "term": "salami",
-    "price": "$10.00",
-    "image": "https://assets.woolworths.com.au/images/1005/193729.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/193729/primo-stackers-mild-salami-cheddar-cheese-crackers",
-    "url": "https://www.woolworths.com.au/shop/productdetails/193729/primo-stackers-mild-salami-cheddar-cheese-crackers",
-    "store_name": "Woolworths",
-    "product_name": "Primo Stackers Mild Salami Cheddar Cheese & Crackers 3 pack"
-  },
-  {
-    "term": "salami",
     "price": "$6.50",
     "image": "https://assets.woolworths.com.au/images/1005/271783.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/271783/primo-air-dried-salami-sticks-mild-pepperoni",
     "url": "https://www.woolworths.com.au/shop/productdetails/271783/primo-air-dried-salami-sticks-mild-pepperoni",
     "store_name": "Woolworths",
     "product_name": "Primo Air Dried Salami Sticks Mild Pepperoni 5 pack"
-  },
-  {
-    "term": "salami",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/63584.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/63584/primo-stackers-mild-salami-cheddar-cheese-crackers",
-    "url": "https://www.woolworths.com.au/shop/productdetails/63584/primo-stackers-mild-salami-cheddar-cheese-crackers",
-    "store_name": "Woolworths",
-    "product_name": "Primo Stackers Mild Salami Cheddar Cheese & Crackers 50g"
   },
   {
     "term": "salami",
@@ -15235,15 +14317,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/777944/krc-hot-hungarian-salami-shaved-from-the-deli",
     "store_name": "Woolworths",
     "product_name": "KRC Hot Hungarian Salami Shaved From The Deli per 100g"
-  },
-  {
-    "term": "salami",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/6024884.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6024884/primo-protein-salami-cheese-wholegrain-crackers",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6024884/primo-protein-salami-cheese-wholegrain-crackers",
-    "store_name": "Woolworths",
-    "product_name": "Primo Protein Salami Cheese & Wholegrain Crackers 55g"
   },
   {
     "term": "salami",
@@ -15523,15 +14596,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/260670/woolworths-cracked-black-pepper-wagyu-beef-sausages",
     "store_name": "Woolworths",
     "product_name": "Woolworths Cracked Black Pepper Wagyu Beef Sausages 450g"
-  },
-  {
-    "term": "sausages",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/83727.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/83727/woolworths-fetta-spinach-chicken-sausages",
-    "url": "https://www.woolworths.com.au/shop/productdetails/83727/woolworths-fetta-spinach-chicken-sausages",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Fetta & Spinach Chicken Sausages 500g"
   },
   {
     "term": "sausages",
@@ -15883,15 +14947,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/38910/birds-eye-oven-bake-fish-lemon-crumb",
     "store_name": "Woolworths",
     "product_name": "Birds Eye Oven Bake Fish Lemon Crumb 425g"
-  },
-  {
-    "term": "fish",
-    "price": "$8.80",
-    "image": "https://assets.woolworths.com.au/images/1005/780110.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/780110/birds-eye-steamfresh-fish-fillets-citrus-parsley-sauce",
-    "url": "https://www.woolworths.com.au/shop/productdetails/780110/birds-eye-steamfresh-fish-fillets-citrus-parsley-sauce",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Steamfresh Fish Fillets Citrus & Parsley Sauce 380g"
   },
   {
     "term": "fish",
@@ -16821,60 +15876,6 @@
     "product_name": "The Stock Merchant MSC Sardines in Extra Virgin Olive Oil 120g"
   },
   {
-    "term": "fish fillets",
-    "price": "$4.90",
-    "image": "https://assets.woolworths.com.au/images/1005/700541.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/700541/woolworths-fish-fillets-crumbed",
-    "url": "https://www.woolworths.com.au/shop/productdetails/700541/woolworths-fish-fillets-crumbed",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Fish Fillets Crumbed 425g"
-  },
-  {
-    "term": "fish fillets",
-    "price": "$11.00",
-    "image": "https://assets.woolworths.com.au/images/1005/759044.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/759044/woolworths-frozen-fish-fillets-battered",
-    "url": "https://www.woolworths.com.au/shop/productdetails/759044/woolworths-frozen-fish-fillets-battered",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Frozen Fish Fillets Battered 1kg"
-  },
-  {
-    "term": "fish fillets",
-    "price": "$4.90",
-    "image": "https://assets.woolworths.com.au/images/1005/700545.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/700545/woolworths-battered-fish-fillets",
-    "url": "https://www.woolworths.com.au/shop/productdetails/700545/woolworths-battered-fish-fillets",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Battered Fish Fillets 425g"
-  },
-  {
-    "term": "fish fillets",
-    "price": "$5.60",
-    "image": "https://assets.woolworths.com.au/images/1005/6034872.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6034872/findus-jumbo-battered-fish-fillets",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6034872/findus-jumbo-battered-fish-fillets",
-    "store_name": "Woolworths",
-    "product_name": "Findus Jumbo Battered Fish Fillets 400g"
-  },
-  {
-    "term": "fish fillets",
-    "price": "$8.80",
-    "image": "https://assets.woolworths.com.au/images/1005/780110.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/780110/birds-eye-steamfresh-fish-fillets-citrus-parsley-sauce",
-    "url": "https://www.woolworths.com.au/shop/productdetails/780110/birds-eye-steamfresh-fish-fillets-citrus-parsley-sauce",
-    "store_name": "Woolworths",
-    "product_name": "Birds Eye Steamfresh Fish Fillets Citrus & Parsley Sauce 380g"
-  },
-  {
-    "term": "fish fillets",
-    "price": "$8.50",
-    "image": "https://assets.woolworths.com.au/images/1005/372425.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/372425/blueline-seafood-classic-crumbed-fish-fillets",
-    "url": "https://www.woolworths.com.au/shop/productdetails/372425/blueline-seafood-classic-crumbed-fish-fillets",
-    "store_name": "Woolworths",
-    "product_name": "Blueline Seafood Classic Crumbed Fish Fillets 1kg"
-  },
-  {
     "term": "frozen pizza",
     "price": "$7.00",
     "image": "https://assets.woolworths.com.au/images/1005/6035678.jpg?impolicy=wowsmkqiema&w=260&h=260",
@@ -17044,15 +16045,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/320693/peters-drumstick-ice-cream-vanilla",
     "store_name": "Woolworths",
     "product_name": "Peters Drumstick Ice Cream Vanilla 16 pack"
-  },
-  {
-    "term": "ice cream",
-    "price": "$9.50",
-    "image": "https://assets.woolworths.com.au/images/1005/224380.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/224380/weis-macadamia-mango-ice-cream-bars",
-    "url": "https://www.woolworths.com.au/shop/productdetails/224380/weis-macadamia-mango-ice-cream-bars",
-    "store_name": "Woolworths",
-    "product_name": "Weis Macadamia, Mango & Ice Cream Bars 4 pack"
   },
   {
     "term": "ice cream",
@@ -17614,33 +16606,6 @@
   },
   {
     "term": "spaghetti",
-    "price": "$1.00",
-    "image": "https://assets.woolworths.com.au/images/1005/346830.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/346830/woolworths-pasta-spaghetti",
-    "url": "https://www.woolworths.com.au/shop/productdetails/346830/woolworths-pasta-spaghetti",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Pasta Spaghetti 500g"
-  },
-  {
-    "term": "spaghetti",
-    "price": "$2.50",
-    "image": "https://assets.woolworths.com.au/images/1005/43974.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/43974/san-remo-spaghetti-pasta-no-5",
-    "url": "https://www.woolworths.com.au/shop/productdetails/43974/san-remo-spaghetti-pasta-no-5",
-    "store_name": "Woolworths",
-    "product_name": "San Remo Spaghetti Pasta No 5 500g"
-  },
-  {
-    "term": "spaghetti",
-    "price": "$0.90",
-    "image": "https://assets.woolworths.com.au/images/1005/44571.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/44571/essentials-pasta-spaghetti",
-    "url": "https://www.woolworths.com.au/shop/productdetails/44571/essentials-pasta-spaghetti",
-    "store_name": "Woolworths",
-    "product_name": "Essentials Pasta Spaghetti 500g"
-  },
-  {
-    "term": "spaghetti",
     "price": "$2.00",
     "image": "https://assets.woolworths.com.au/images/1005/9014.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/9014/zafarelli-spaghetti-no4",
@@ -17812,66 +16777,12 @@
   },
   {
     "term": "penne",
-    "price": "$2.50",
-    "image": "https://assets.woolworths.com.au/images/1005/35742.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/35742/san-remo-penne-pasta-no-18",
-    "url": "https://www.woolworths.com.au/shop/productdetails/35742/san-remo-penne-pasta-no-18",
-    "store_name": "Woolworths",
-    "product_name": "San Remo Penne Pasta No 18 500g"
-  },
-  {
-    "term": "penne",
-    "price": "$1.00",
-    "image": "https://assets.woolworths.com.au/images/1005/346831.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/346831/woolworths-pasta-penne-rigate",
-    "url": "https://www.woolworths.com.au/shop/productdetails/346831/woolworths-pasta-penne-rigate",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Pasta Penne Rigate 500g"
-  },
-  {
-    "term": "penne",
-    "price": "$0.90",
-    "image": "https://assets.woolworths.com.au/images/1005/188800.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/188800/essentials-pasta-penne",
-    "url": "https://www.woolworths.com.au/shop/productdetails/188800/essentials-pasta-penne",
-    "store_name": "Woolworths",
-    "product_name": "Essentials Pasta Penne 500g"
-  },
-  {
-    "term": "penne",
-    "price": "$3.50",
-    "image": "https://assets.woolworths.com.au/images/1005/83764.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/83764/barilla-pasta-penne-rigate-rigate-pasta-no-73",
-    "url": "https://www.woolworths.com.au/shop/productdetails/83764/barilla-pasta-penne-rigate-rigate-pasta-no-73",
-    "store_name": "Woolworths",
-    "product_name": "Barilla Pasta Penne Rigate 500g"
-  },
-  {
-    "term": "penne",
-    "price": "$2.00",
-    "image": "https://assets.woolworths.com.au/images/1005/9010.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/9010/zafarelli-pennette-rigate-pasta-no-18",
-    "url": "https://www.woolworths.com.au/shop/productdetails/9010/zafarelli-pennette-rigate-pasta-no-18",
-    "store_name": "Woolworths",
-    "product_name": "Zafarelli Pennette Rigate Pasta No 18 500g"
-  },
-  {
-    "term": "penne",
     "price": "$2.80",
     "image": "https://assets.woolworths.com.au/images/1005/74787.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/74787/la-molisana-pastificio-extra-di-lusso-penne-rigate",
     "url": "https://www.woolworths.com.au/shop/productdetails/74787/la-molisana-pastificio-extra-di-lusso-penne-rigate",
     "store_name": "Woolworths",
     "product_name": "La Molisana Pastificio Extra Di Lusso Penne Rigate 500g"
-  },
-  {
-    "term": "penne",
-    "price": "$1.95",
-    "image": "https://assets.woolworths.com.au/images/1005/215448.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/215448/macro-organic-penne-pasta",
-    "url": "https://www.woolworths.com.au/shop/productdetails/215448/macro-organic-penne-pasta",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Penne Pasta 500g"
   },
   {
     "term": "penne",
@@ -18106,105 +17017,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/755561/maggi-2-minute-wholegrain-chicken-flavour-instant-noodles",
     "store_name": "Woolworths",
     "product_name": "Maggi 2 Minute Wholegrain Chicken Flavour Instant Noodles 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/343890.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/343890/maggi-2-minute-chicken-flavour-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/343890/maggi-2-minute-chicken-flavour-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi 2 Minute Chicken Flavour Instant Noodles 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$3.95",
-    "image": "https://assets.woolworths.com.au/images/1005/177972.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/177972/indomie-mi-goreng-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/177972/indomie-mi-goreng-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Indomie Mi Goreng Instant Noodles 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$2.00",
-    "image": "https://assets.woolworths.com.au/images/1005/336683.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/336683/indomena-instant-noodles-chicken-flavoured",
-    "url": "https://www.woolworths.com.au/shop/productdetails/336683/indomena-instant-noodles-chicken-flavoured",
-    "store_name": "Woolworths",
-    "product_name": "Indomena Instant Noodles Chicken Flavoured 85g x 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/343892.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/343892/maggi-2-minute-chicken-flavour-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/343892/maggi-2-minute-chicken-flavour-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi 2 Minute Chicken Flavour Instant Noodles 12 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/343896.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/343896/maggi-2-minute-beef-flavour-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/343896/maggi-2-minute-beef-flavour-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi 2 Minute Beef Flavour Instant Noodles 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$2.00",
-    "image": "https://assets.woolworths.com.au/images/1005/336684.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/336684/indomena-instant-noodles-beef-flavoured",
-    "url": "https://www.woolworths.com.au/shop/productdetails/336684/indomena-instant-noodles-beef-flavoured",
-    "store_name": "Woolworths",
-    "product_name": "Indomena Instant Noodles Beef Flavoured 85g x 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$1.25",
-    "image": "https://assets.woolworths.com.au/images/1005/224905.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/224905/maggi-chicken-flavour-cup-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/224905/maggi-chicken-flavour-cup-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi Chicken Flavour Cup Instant Noodles 60g"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/755561.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/755561/maggi-2-minute-wholegrain-chicken-flavour-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/755561/maggi-2-minute-wholegrain-chicken-flavour-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi 2 Minute Wholegrain Chicken Flavour Instant Noodles 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/343897.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/343897/maggi-2-minute-oriental-flavour-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/343897/maggi-2-minute-oriental-flavour-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi 2 Minute Oriental Flavour Instant Noodles 5 pack"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$1.25",
-    "image": "https://assets.woolworths.com.au/images/1005/224906.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/224906/maggi-beef-flavour-cup-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/224906/maggi-beef-flavour-cup-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi Beef Flavour Cup Instant Noodles 58g"
-  },
-  {
-    "term": "instant noodles",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/343900.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/343900/maggi-2-minute-beef-flavour-instant-noodles",
-    "url": "https://www.woolworths.com.au/shop/productdetails/343900/maggi-2-minute-beef-flavour-instant-noodles",
-    "store_name": "Woolworths",
-    "product_name": "Maggi 2 Minute Beef Flavour Instant Noodles 12 pack"
   },
   {
     "term": "instant noodles",
@@ -18892,33 +17704,6 @@
   },
   {
     "term": "brown sugar",
-    "price": "$3.30",
-    "image": "https://assets.woolworths.com.au/images/1005/720342.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/720342/essentials-brown-sugar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/720342/essentials-brown-sugar",
-    "store_name": "Woolworths",
-    "product_name": "Essentials Brown Sugar 1kg"
-  },
-  {
-    "term": "brown sugar",
-    "price": "$2.50",
-    "image": "https://assets.woolworths.com.au/images/1005/33142.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/33142/csr-brown-sugar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/33142/csr-brown-sugar",
-    "store_name": "Woolworths",
-    "product_name": "CSR Brown Sugar 500g"
-  },
-  {
-    "term": "brown sugar",
-    "price": "$4.90",
-    "image": "https://assets.woolworths.com.au/images/1005/37679.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/37679/csr-brown-sugar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/37679/csr-brown-sugar",
-    "store_name": "Woolworths",
-    "product_name": "CSR Brown Sugar 1kg"
-  },
-  {
-    "term": "brown sugar",
     "price": "$4.60",
     "image": "https://assets.woolworths.com.au/images/1005/37736.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/37736/csr-brown-sugar-dark",
@@ -19023,7 +17808,7 @@
     "productId": "/shop/productdetails/1123577687/oxo-good-grips-pop-accessories-4-piece-baking-set-brown-sugar-saver-leveler-scoop-labels-for-pop-containers",
     "url": "https://www.woolworths.com.au/shop/productdetails/1123577687/oxo-good-grips-pop-accessories-4-piece-baking-set-brown-sugar-saver-leveler-scoop-labels-for-pop-containers",
     "store_name": "Woolworths",
-    "product_name": "OXO Good Grips POP Accessories 4-Piece Baking Set \u00e2\u20ac\u201c Brown Sugar Saver, Leveler, Scoop & Labels for POP Containers"
+    "product_name": "OXO Good Grips POP Accessories 4-Piece Baking Set â€“ Brown Sugar Saver, Leveler, Scoop & Labels for POP Containers"
   },
   {
     "term": "brown sugar",
@@ -19060,42 +17845,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/6055284/uncle-tobys-overnight-oat-sachets-apple-brown-sugar",
     "store_name": "Woolworths",
     "product_name": "Uncle Tobys Overnight Oat Sachets Apple & Brown Sugar 10 pack"
-  },
-  {
-    "term": "icing sugar",
-    "price": "$3.95",
-    "image": "https://assets.woolworths.com.au/images/1005/115632.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/115632/essentials-icing-sugar-mixture",
-    "url": "https://www.woolworths.com.au/shop/productdetails/115632/essentials-icing-sugar-mixture",
-    "store_name": "Woolworths",
-    "product_name": "Essentials Icing Sugar Mixture 1kg"
-  },
-  {
-    "term": "icing sugar",
-    "price": "$2.50",
-    "image": "https://assets.woolworths.com.au/images/1005/71487.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/71487/csr-icing-sugar-pure",
-    "url": "https://www.woolworths.com.au/shop/productdetails/71487/csr-icing-sugar-pure",
-    "store_name": "Woolworths",
-    "product_name": "CSR Icing Sugar Pure 500g"
-  },
-  {
-    "term": "icing sugar",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/96253.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/96253/csr-icing-sugar-soft-mixture",
-    "url": "https://www.woolworths.com.au/shop/productdetails/96253/csr-icing-sugar-soft-mixture",
-    "store_name": "Woolworths",
-    "product_name": "CSR Icing Sugar Soft Mixture 1kg"
-  },
-  {
-    "term": "icing sugar",
-    "price": "$2.50",
-    "image": "https://assets.woolworths.com.au/images/1005/71488.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/71488/csr-icing-sugar-soft-mixture",
-    "url": "https://www.woolworths.com.au/shop/productdetails/71488/csr-icing-sugar-soft-mixture",
-    "store_name": "Woolworths",
-    "product_name": "CSR Icing Sugar Soft Mixture 500g"
   },
   {
     "term": "icing sugar",
@@ -20386,87 +19135,6 @@
   },
   {
     "term": "porridge",
-    "price": "$10.00",
-    "image": "https://assets.woolworths.com.au/images/1005/147896.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/147896/uncle-tobys-oats-quick-sachets-family-pack-creamy-honey-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/147896/uncle-tobys-oats-quick-sachets-family-pack-creamy-honey-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Oats Quick Sachets Family Pack Creamy Honey Porridge 700g"
-  },
-  {
-    "term": "porridge",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/148976.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/148976/uncle-tobys-oats-quick-sachets-classic-variety-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/148976/uncle-tobys-oats-quick-sachets-classic-variety-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Oats Quick Sachets Classic Variety Porridge 350g"
-  },
-  {
-    "term": "porridge",
-    "price": "$7.00",
-    "image": "https://assets.woolworths.com.au/images/1005/147720.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/147720/uncle-tobys-oats-quick-sachets-big-bowl-creamy-honey-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/147720/uncle-tobys-oats-quick-sachets-big-bowl-creamy-honey-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Oats Quick Sachets Big Bowl Creamy Honey Porridge 368g"
-  },
-  {
-    "term": "porridge",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/37562.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/37562/uncle-tobys-rolled-oats-quick-porridge-oats-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/37562/uncle-tobys-rolled-oats-quick-porridge-oats-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Rolled Oats Quick Porridge 1kg"
-  },
-  {
-    "term": "porridge",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/204987.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/204987/uncle-tobys-oats-quick-sachets-original-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/204987/uncle-tobys-oats-quick-sachets-original-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Oats Quick Sachets Original Porridge 340g"
-  },
-  {
-    "term": "porridge",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/33036.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/33036/uncle-tobys-rolled-oats-traditional-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/33036/uncle-tobys-rolled-oats-traditional-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Rolled Oats Traditional Porridge 1kg"
-  },
-  {
-    "term": "porridge",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/31129.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/31129/uncle-tobys-rolled-oats-quick-porridge-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/31129/uncle-tobys-rolled-oats-quick-porridge-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Rolled Oats Quick Porridge 500g"
-  },
-  {
-    "term": "porridge",
-    "price": "$10.00",
-    "image": "https://assets.woolworths.com.au/images/1005/149502.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/149502/uncle-tobys-oats-quick-sachets-family-pack-original-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/149502/uncle-tobys-oats-quick-sachets-family-pack-original-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Oats Quick Sachets Family Pack Original Porridge 680g"
-  },
-  {
-    "term": "porridge",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/37678.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/37678/uncle-tobys-rolled-oats-traditional-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/37678/uncle-tobys-rolled-oats-traditional-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Rolled Oats Traditional Porridge 500g"
-  },
-  {
-    "term": "porridge",
     "price": "$7.50",
     "image": "https://assets.woolworths.com.au/images/1005/435300.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/435300/carman-s-porridge-sachets-honey-vanilla-cinnamon",
@@ -20482,24 +19150,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/149866/uncle-tobys-oats-quick-sachets-apple-cinnamon-porridge",
     "store_name": "Woolworths",
     "product_name": "Uncle Tobys Oats Quick Sachets Apple & Cinnamon Porridge 350g"
-  },
-  {
-    "term": "porridge",
-    "price": "$7.00",
-    "image": "https://assets.woolworths.com.au/images/1005/583228.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/583228/uncle-tobys-big-bowl-quick-oats-protein-vanilla-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/583228/uncle-tobys-big-bowl-quick-oats-protein-vanilla-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Big Bowl Quick Oats Protein Vanilla Porridge 368g x 8 pack"
-  },
-  {
-    "term": "porridge",
-    "price": "$7.00",
-    "image": "https://assets.woolworths.com.au/images/1005/148281.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/148281/uncle-tobys-oats-quick-sachets-big-bowl-original-porridge",
-    "url": "https://www.woolworths.com.au/shop/productdetails/148281/uncle-tobys-oats-quick-sachets-big-bowl-original-porridge",
-    "store_name": "Woolworths",
-    "product_name": "Uncle Tobys Oats Quick Sachets Big Bowl Original Porridge 368g"
   },
   {
     "term": "porridge",
@@ -20635,15 +19285,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/824408/woolworths-scotch-finger-biscuits",
     "store_name": "Woolworths",
     "product_name": "Woolworths Scotch Finger Biscuits 250g"
-  },
-  {
-    "term": "biscuits",
-    "price": "$4.00",
-    "image": "https://assets.woolworths.com.au/images/1005/36072.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/36072/arnott-s-raspberry-shortcake-biscuits",
-    "url": "https://www.woolworths.com.au/shop/productdetails/36072/arnott-s-raspberry-shortcake-biscuits",
-    "store_name": "Woolworths",
-    "product_name": "Arnott's Raspberry Shortcake Biscuits 250g"
   },
   {
     "term": "biscuits",
@@ -21844,15 +20485,6 @@
   },
   {
     "term": "chocolate",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/36215.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/36215/arnott-s-mint-slice-chocolate-biscuits",
-    "url": "https://www.woolworths.com.au/shop/productdetails/36215/arnott-s-mint-slice-chocolate-biscuits",
-    "store_name": "Woolworths",
-    "product_name": "Arnott's Mint Slice Chocolate Biscuits 200g"
-  },
-  {
-    "term": "chocolate",
     "price": "$1.75",
     "image": "https://assets.woolworths.com.au/images/1005/253326.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/253326/cadbury-creme-egg-easter-chocolate",
@@ -22105,15 +20737,6 @@
   },
   {
     "term": "candy",
-    "price": "$1.50",
-    "image": "https://assets.woolworths.com.au/images/1005/6000482.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6000482/trolli-watermelon-splash-candy",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6000482/trolli-watermelon-splash-candy",
-    "store_name": "Woolworths",
-    "product_name": "Trolli Watermelon Splash Candy 18.8g"
-  },
-  {
-    "term": "candy",
     "price": "$1.75",
     "image": "https://assets.woolworths.com.au/images/1005/229333.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/229333/topps-push-pop-candy-assorted",
@@ -22147,15 +20770,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/1122680067/candy-bracelets-150g-",
     "store_name": "Woolworths",
     "product_name": "Candy Bracelets (150g)"
-  },
-  {
-    "term": "candy",
-    "price": "$6.00",
-    "image": "https://assets.woolworths.com.au/images/1005/679543.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/679543/grape-cotton-cotton-candy-grapes",
-    "url": "https://www.woolworths.com.au/shop/productdetails/679543/grape-cotton-cotton-candy-grapes",
-    "store_name": "Woolworths",
-    "product_name": "Cotton Candy\u00e2\u201e\u00a2 Grapes 400g"
   },
   {
     "term": "candy",
@@ -22294,15 +20908,6 @@
   },
   {
     "term": "gummy",
-    "price": "$3.00",
-    "image": "https://assets.woolworths.com.au/images/1005/6056820.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6056820/the-natural-confectionery-co-mini-gummy-bears-lollies",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6056820/the-natural-confectionery-co-mini-gummy-bears-lollies",
-    "store_name": "Woolworths",
-    "product_name": "The Natural Confectionery Co. Mini Gummy Bears Lollies 80g"
-  },
-  {
-    "term": "gummy",
     "price": null,
     "image": "https://assets.woolworths.com.au/images/1005/613452.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/613452/nerds-gummy-clusters-rainbow",
@@ -22417,15 +21022,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/1125989187/1kg-juicy-jelly-peeled-gummy-pineapple",
     "store_name": "Woolworths",
     "product_name": "1kg Juicy Jelly peeled gummy pineapple"
-  },
-  {
-    "term": "caramel",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/829175.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/829175/cadbury-dairy-milk-chocolate-caramello-koala-12-pack",
-    "url": "https://www.woolworths.com.au/shop/productdetails/829175/cadbury-dairy-milk-chocolate-caramello-koala-12-pack",
-    "store_name": "Woolworths",
-    "product_name": "Cadbury Dairy Milk Chocolate Caramello Koala 12 pack 180g"
   },
   {
     "term": "caramel",
@@ -22552,15 +21148,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/6044342/funday-natural-sweets-caramel-chews",
     "store_name": "Woolworths",
     "product_name": "Funday Natural Sweets Caramel Chews 45g"
-  },
-  {
-    "term": "caramel",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/25.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/25/arnott-s-caramel-crown-chocolate-biscuits",
-    "url": "https://www.woolworths.com.au/shop/productdetails/25/arnott-s-caramel-crown-chocolate-biscuits",
-    "store_name": "Woolworths",
-    "product_name": "Arnott's Caramel Crown Chocolate Biscuits 200g"
   },
   {
     "term": "caramel",
@@ -22848,7 +21435,7 @@
     "productId": "/shop/productdetails/659091/lavazza-qualit-oro-ground-coffee",
     "url": "https://www.woolworths.com.au/shop/productdetails/659091/lavazza-qualit-oro-ground-coffee",
     "store_name": "Woolworths",
-    "product_name": "Lavazza Qualit\u00c3\u00a0 Oro Ground Coffee 250g x 2 pack"
+    "product_name": "Lavazza QualitÃ  Oro Ground Coffee 250g x 2 pack"
   },
   {
     "term": "coffee",
@@ -23059,15 +21646,6 @@
   },
   {
     "term": "coffee",
-    "price": "$8.00",
-    "image": "https://assets.woolworths.com.au/images/1005/226908.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/226908/nescafe-caramel-latte-coffee-sachets",
-    "url": "https://www.woolworths.com.au/shop/productdetails/226908/nescafe-caramel-latte-coffee-sachets",
-    "store_name": "Woolworths",
-    "product_name": "Nescafe Caramel Latte Coffee Sachets 10 pack"
-  },
-  {
-    "term": "coffee",
     "price": "$26.00",
     "image": "https://assets.woolworths.com.au/images/1005/242184.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/242184/nescafe-gold-original-soluble-instant-coffee-jar",
@@ -23104,78 +21682,6 @@
   },
   {
     "term": "instant coffee",
-    "price": "$14.50",
-    "image": "https://assets.woolworths.com.au/images/1005/38078.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/38078/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "url": "https://www.woolworths.com.au/shop/productdetails/38078/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "store_name": "Woolworths",
-    "product_name": "Moccona Freeze Dried Instant Coffee Classic Medium Roast 100g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$6.50",
-    "image": "https://assets.woolworths.com.au/images/1005/17950.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/17950/essentials-instant-coffee-granulated",
-    "url": "https://www.woolworths.com.au/shop/productdetails/17950/essentials-instant-coffee-granulated",
-    "store_name": "Woolworths",
-    "product_name": "Essentials Instant Coffee Granulated 200g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$37.50",
-    "image": "https://assets.woolworths.com.au/images/1005/208575.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/208575/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "url": "https://www.woolworths.com.au/shop/productdetails/208575/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "store_name": "Woolworths",
-    "product_name": "Moccona Freeze Dried Instant Coffee Classic Medium Roast 400g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$15.50",
-    "image": "https://assets.woolworths.com.au/images/1005/34709.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/34709/international-roast-instant-coffee",
-    "url": "https://www.woolworths.com.au/shop/productdetails/34709/international-roast-instant-coffee",
-    "store_name": "Woolworths",
-    "product_name": "International Roast Instant Coffee 500g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$16.50",
-    "image": "https://assets.woolworths.com.au/images/1005/35681.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/35681/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "url": "https://www.woolworths.com.au/shop/productdetails/35681/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "store_name": "Woolworths",
-    "product_name": "Moccona Freeze Dried Instant Coffee Classic Medium Roast 200g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$15.00",
-    "image": "https://assets.woolworths.com.au/images/1005/159897.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/159897/vittoria-freeze-dried-instant-coffee-classic",
-    "url": "https://www.woolworths.com.au/shop/productdetails/159897/vittoria-freeze-dried-instant-coffee-classic",
-    "store_name": "Woolworths",
-    "product_name": "Vittoria Freeze Dried Instant Coffee Classic 100g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$14.50",
-    "image": "https://assets.woolworths.com.au/images/1005/33835.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/33835/nescafe-blend-43-instant-coffee-jar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/33835/nescafe-blend-43-instant-coffee-jar",
-    "store_name": "Woolworths",
-    "product_name": "Nescafe Blend 43 Instant Coffee Jar 150g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$19.50",
-    "image": "https://assets.woolworths.com.au/images/1005/677291.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/677291/nescafe-blend-43-instant-coffee-refill",
-    "url": "https://www.woolworths.com.au/shop/productdetails/677291/nescafe-blend-43-instant-coffee-refill",
-    "store_name": "Woolworths",
-    "product_name": "Nescafe Blend 43 Instant Coffee Refill 400g"
-  },
-  {
-    "term": "instant coffee",
     "price": "$19.50",
     "image": "https://assets.woolworths.com.au/images/1005/6026657.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6026657/vittoria-espresso-freeze-dried-instant-coffee",
@@ -23194,30 +21700,12 @@
   },
   {
     "term": "instant coffee",
-    "price": "$22.00",
-    "image": "https://assets.woolworths.com.au/images/1005/35694.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/35694/nescafe-blend-43-instant-coffee-tin",
-    "url": "https://www.woolworths.com.au/shop/productdetails/35694/nescafe-blend-43-instant-coffee-tin",
-    "store_name": "Woolworths",
-    "product_name": "Nescafe Blend 43 Instant Coffee Tin 500g"
-  },
-  {
-    "term": "instant coffee",
     "price": "$19.00",
     "image": "https://assets.woolworths.com.au/images/1005/6021072.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6021072/moccona-freeze-dried-instant-coffee-medium-roast-refill-pouch",
     "url": "https://www.woolworths.com.au/shop/productdetails/6021072/moccona-freeze-dried-instant-coffee-medium-roast-refill-pouch",
     "store_name": "Woolworths",
     "product_name": "Moccona Freeze Dried Instant Coffee Medium Roast Refill Pouch 300g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$8.80",
-    "image": "https://assets.woolworths.com.au/images/1005/32695.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/32695/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "url": "https://www.woolworths.com.au/shop/productdetails/32695/moccona-freeze-dried-instant-coffee-classic-medium-roast",
-    "store_name": "Woolworths",
-    "product_name": "Moccona Freeze Dried Instant Coffee Classic Medium Roast 50g"
   },
   {
     "term": "instant coffee",
@@ -23230,39 +21718,12 @@
   },
   {
     "term": "instant coffee",
-    "price": "$26.00",
-    "image": "https://assets.woolworths.com.au/images/1005/242184.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/242184/nescafe-gold-original-soluble-instant-coffee-jar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/242184/nescafe-gold-original-soluble-instant-coffee-jar",
-    "store_name": "Woolworths",
-    "product_name": "Nescafe Gold Original Soluble Instant Coffee Jar 400g"
-  },
-  {
-    "term": "instant coffee",
     "price": "$11.00",
     "image": "https://assets.woolworths.com.au/images/1005/6016159.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6016159/nescafe-rich-caramel-flavoured-instant-coffee",
     "url": "https://www.woolworths.com.au/shop/productdetails/6016159/nescafe-rich-caramel-flavoured-instant-coffee",
     "store_name": "Woolworths",
     "product_name": "Nescafe Rich Caramel Flavoured Instant Coffee 95g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$23.60",
-    "image": "https://assets.woolworths.com.au/images/1005/17605.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/17605/moccona-freeze-dried-instant-coffee-specialty-blend-indulgence",
-    "url": "https://www.woolworths.com.au/shop/productdetails/17605/moccona-freeze-dried-instant-coffee-specialty-blend-indulgence",
-    "store_name": "Woolworths",
-    "product_name": "Moccona Freeze Dried Instant Coffee Specialty Blend Indulgence 200g"
-  },
-  {
-    "term": "instant coffee",
-    "price": "$14.50",
-    "image": "https://assets.woolworths.com.au/images/1005/800325.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/800325/nescafe-blend-43-smooth-creamy-instant-coffee-jar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/800325/nescafe-blend-43-smooth-creamy-instant-coffee-jar",
-    "store_name": "Woolworths",
-    "product_name": "Nescafe Blend 43 Smooth & Creamy Instant Coffee Jar 140g"
   },
   {
     "term": "instant coffee",
@@ -23307,7 +21768,7 @@
     "productId": "/shop/productdetails/254490/jarrah-brazilian-caf-latte-instant-coffee",
     "url": "https://www.woolworths.com.au/shop/productdetails/254490/jarrah-brazilian-caf-latte-instant-coffee",
     "store_name": "Woolworths",
-    "product_name": "Jarrah Brazilian Caf\u00c3\u00a9 Latte Instant Coffee 250g"
+    "product_name": "Jarrah Brazilian Cafe Latte Instant Coffee 250g"
   },
   {
     "term": "ground coffee",
@@ -23326,15 +21787,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/791816/grinders-espresso-ground-coffee",
     "store_name": "Woolworths",
     "product_name": "Grinders Espresso Ground Coffee 200g"
-  },
-  {
-    "term": "ground coffee",
-    "price": "$22.40",
-    "image": "https://assets.woolworths.com.au/images/1005/659091.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/659091/lavazza-qualit-oro-ground-coffee",
-    "url": "https://www.woolworths.com.au/shop/productdetails/659091/lavazza-qualit-oro-ground-coffee",
-    "store_name": "Woolworths",
-    "product_name": "Lavazza Qualit\u00c3\u00a0 Oro Ground Coffee 250g x 2 pack"
   },
   {
     "term": "ground coffee",
@@ -23496,7 +21948,7 @@
     "productId": "/shop/productdetails/6024673/grinders-cafe-q-cremello-coffee-beans",
     "url": "https://www.woolworths.com.au/shop/productdetails/6024673/grinders-cafe-q-cremello-coffee-beans",
     "store_name": "Woolworths",
-    "product_name": "Grinders Cafe Q Cremello Coffee Beans 1kg"
+    "product_name": "Grinders Cafe-Q Cremello Coffee Beans 1kg"
   },
   {
     "term": "coffee beans",
@@ -23505,7 +21957,7 @@
     "productId": "/shop/productdetails/6024670/grinders-cafe-q-cremello-coffee-beans",
     "url": "https://www.woolworths.com.au/shop/productdetails/6024670/grinders-cafe-q-cremello-coffee-beans",
     "store_name": "Woolworths",
-    "product_name": "Grinders Cafe Q Cremello Coffee Beans 500g"
+    "product_name": "Grinders Cafe-Q Cremello Coffee Beans 500g"
   },
   {
     "term": "coffee beans",
@@ -23568,7 +22020,7 @@
     "productId": "/shop/productdetails/160720/grinders-caf-q-organico-coffee-beans",
     "url": "https://www.woolworths.com.au/shop/productdetails/160720/grinders-caf-q-organico-coffee-beans",
     "store_name": "Woolworths",
-    "product_name": "Grinders Caf\u00c3\u00a9-Q Organico Coffee Beans 1kg"
+    "product_name": "Grinders Cafe-Q Organico Coffee Beans 1kg"
   },
   {
     "term": "coffee beans",
@@ -23577,7 +22029,7 @@
     "productId": "/shop/productdetails/6024629/grinders-cafe-q-darkoko-coffee-beans",
     "url": "https://www.woolworths.com.au/shop/productdetails/6024629/grinders-cafe-q-darkoko-coffee-beans",
     "store_name": "Woolworths",
-    "product_name": "Grinders Cafe Q Darkoko Coffee Beans 500g"
+    "product_name": "Grinders Cafe-Q Darkoko Coffee Beans 500g"
   },
   {
     "term": "coffee beans",
@@ -23986,15 +22438,6 @@
   },
   {
     "term": "green tea",
-    "price": "$2.20",
-    "image": "https://assets.woolworths.com.au/images/1005/690093.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/690093/woolworths-green-tea",
-    "url": "https://www.woolworths.com.au/shop/productdetails/690093/woolworths-green-tea",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Green Tea 50 pack"
-  },
-  {
-    "term": "green tea",
     "price": "$8.50",
     "image": "https://assets.woolworths.com.au/images/1005/262437.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/262437/twinings-pure-green-tea-bags-bags",
@@ -24157,33 +22600,6 @@
   },
   {
     "term": "black tea",
-    "price": "$10.00",
-    "image": "https://assets.woolworths.com.au/images/1005/587903.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/587903/lipton-quality-black-tea-bags",
-    "url": "https://www.woolworths.com.au/shop/productdetails/587903/lipton-quality-black-tea-bags",
-    "store_name": "Woolworths",
-    "product_name": "Lipton Quality Black Tea Bags 200 pack"
-  },
-  {
-    "term": "black tea",
-    "price": "$7.00",
-    "image": "https://assets.woolworths.com.au/images/1005/587911.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/587911/lipton-quality-black-tea-bags",
-    "url": "https://www.woolworths.com.au/shop/productdetails/587911/lipton-quality-black-tea-bags",
-    "store_name": "Woolworths",
-    "product_name": "Lipton Quality Black Tea Bags 100 pack"
-  },
-  {
-    "term": "black tea",
-    "price": "$1.75",
-    "image": "https://assets.woolworths.com.au/images/1005/617101.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/617101/essentials-black-tea-bags",
-    "url": "https://www.woolworths.com.au/shop/productdetails/617101/essentials-black-tea-bags",
-    "store_name": "Woolworths",
-    "product_name": "Essentials Black Tea Bags 100 pack"
-  },
-  {
-    "term": "black tea",
     "price": "$2.75",
     "image": "https://assets.woolworths.com.au/images/1005/6021879.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6021879/bushells-blue-label-classic-black-tea-bags",
@@ -24256,15 +22672,6 @@
   },
   {
     "term": "juice",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/804347.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/804347/woolworths-orange-juice-pulp-free",
-    "url": "https://www.woolworths.com.au/shop/productdetails/804347/woolworths-orange-juice-pulp-free",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Orange Juice Pulp Free 2L"
-  },
-  {
-    "term": "juice",
     "price": "$4.50",
     "image": "https://assets.woolworths.com.au/images/1005/886904.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/886904/the-juice-brothers-tropical-juice",
@@ -24292,15 +22699,6 @@
   },
   {
     "term": "juice",
-    "price": "$7.00",
-    "image": "https://assets.woolworths.com.au/images/1005/263094.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/263094/original-juice-co-pulp-free-orange-juice",
-    "url": "https://www.woolworths.com.au/shop/productdetails/263094/original-juice-co-pulp-free-orange-juice",
-    "store_name": "Woolworths",
-    "product_name": "Original Juice Co. Pulp Free Orange 1.5L"
-  },
-  {
-    "term": "juice",
     "price": "$3.30",
     "image": "https://assets.woolworths.com.au/images/1005/757792.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/757792/woolworths-lunch-box-poppers-juice-tropical",
@@ -24316,24 +22714,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/157508/impressed-pressed-juice-berry-bliss",
     "store_name": "Woolworths",
     "product_name": "Impressed Pressed Juice Berry Bliss 1L"
-  },
-  {
-    "term": "juice",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/142929.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/142929/woolworths-orange-juice-with-pulp",
-    "url": "https://www.woolworths.com.au/shop/productdetails/142929/woolworths-orange-juice-with-pulp",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Orange Juice With Pulp 2L"
-  },
-  {
-    "term": "juice",
-    "price": "$8.50",
-    "image": "https://assets.woolworths.com.au/images/1005/702170.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/702170/nudie-nothing-but-oranges-pulp-free-juice",
-    "url": "https://www.woolworths.com.au/shop/productdetails/702170/nudie-nothing-but-oranges-pulp-free-juice",
-    "store_name": "Woolworths",
-    "product_name": "Nudie Nothing But Oranges Pulp Free Juice 2L"
   },
   {
     "term": "juice",
@@ -24364,48 +22744,12 @@
   },
   {
     "term": "orange juice",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/804347.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/804347/woolworths-orange-juice-pulp-free",
-    "url": "https://www.woolworths.com.au/shop/productdetails/804347/woolworths-orange-juice-pulp-free",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Orange Juice Pulp Free 2L"
-  },
-  {
-    "term": "orange juice",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/142929.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/142929/woolworths-orange-juice-with-pulp",
-    "url": "https://www.woolworths.com.au/shop/productdetails/142929/woolworths-orange-juice-with-pulp",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Orange Juice With Pulp 2L"
-  },
-  {
-    "term": "orange juice",
     "price": "$6.80",
     "image": "https://assets.woolworths.com.au/images/1005/938214.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/938214/eastcoast-orange-juice-100-percent",
     "url": "https://www.woolworths.com.au/shop/productdetails/938214/eastcoast-orange-juice-100-percent",
     "store_name": "Woolworths",
     "product_name": "Eastcoast Orange Juice 100 Percent 2L"
-  },
-  {
-    "term": "orange juice",
-    "price": "$2.95",
-    "image": "https://assets.woolworths.com.au/images/1005/711676.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/711676/daily-juice-co-orange-juice-pulp-free",
-    "url": "https://www.woolworths.com.au/shop/productdetails/711676/daily-juice-co-orange-juice-pulp-free",
-    "store_name": "Woolworths",
-    "product_name": "Daily Juice Co Orange Juice Pulp Free 500mL"
-  },
-  {
-    "term": "orange juice",
-    "price": "$4.50",
-    "image": "https://assets.woolworths.com.au/images/1005/972643.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/972643/the-juice-brothers-orange-juice",
-    "url": "https://www.woolworths.com.au/shop/productdetails/972643/the-juice-brothers-orange-juice",
-    "store_name": "Woolworths",
-    "product_name": "The Juice Brothers Orange Juice 1L"
   },
   {
     "term": "orange juice",
@@ -24424,15 +22768,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/938216/eastcoast-orange-juice-pulp-free",
     "store_name": "Woolworths",
     "product_name": "Eastcoast Orange Juice Pulp Free 2L"
-  },
-  {
-    "term": "orange juice",
-    "price": "$4.00",
-    "image": "https://assets.woolworths.com.au/images/1005/701518.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/701518/nudie-100-orange-juice",
-    "url": "https://www.woolworths.com.au/shop/productdetails/701518/nudie-100-orange-juice",
-    "store_name": "Woolworths",
-    "product_name": "Nudie 100% Orange Juice 400mL"
   },
   {
     "term": "orange juice",
@@ -24496,15 +22831,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/906274/p-n-sparkling-apple-juice",
     "store_name": "Woolworths",
     "product_name": "P&N Sparkling Apple Juice 750mL"
-  },
-  {
-    "term": "apple juice",
-    "price": "$8.50",
-    "image": "https://assets.woolworths.com.au/images/1005/359119.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/359119/nudie-100-apple-juice",
-    "url": "https://www.woolworths.com.au/shop/productdetails/359119/nudie-100-apple-juice",
-    "store_name": "Woolworths",
-    "product_name": "Nudie 100% Apple Juice 2L"
   },
   {
     "term": "apple juice",
@@ -24577,15 +22903,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/7985/pepsi-max-cola-no-sugar-soft-drink-bottle",
     "store_name": "Woolworths",
     "product_name": "Pepsi Max Cola No Sugar Soft Drink Bottle 1.25L"
-  },
-  {
-    "term": "soft drink",
-    "price": "$3.00",
-    "image": "https://assets.woolworths.com.au/images/1005/703402.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/703402/schweppes-traditional-raspberry-soft-drink-bottle",
-    "url": "https://www.woolworths.com.au/shop/productdetails/703402/schweppes-traditional-raspberry-soft-drink-bottle",
-    "store_name": "Woolworths",
-    "product_name": "Schweppes Traditional Raspberry Soft Drink Bottle 1.1L"
   },
   {
     "term": "soft drink",
@@ -24715,15 +23032,6 @@
   },
   {
     "term": "cola",
-    "price": "$4.20",
-    "image": "https://assets.woolworths.com.au/images/1005/32731.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/32731/coca-cola-classic-soft-drink-bottle",
-    "url": "https://www.woolworths.com.au/shop/productdetails/32731/coca-cola-classic-soft-drink-bottle",
-    "store_name": "Woolworths",
-    "product_name": "Coca-Cola Classic  Soft Drink Bottle 1.25L"
-  },
-  {
-    "term": "cola",
     "price": "$2.30",
     "image": "https://assets.woolworths.com.au/images/1005/842241.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/842241/la-ice-cola-bottle-bottle",
@@ -24739,15 +23047,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/177982/la-ice-cola-no-sugar",
     "store_name": "Woolworths",
     "product_name": "La Ice Cola No Sugar 2L"
-  },
-  {
-    "term": "cola",
-    "price": "$4.20",
-    "image": "https://assets.woolworths.com.au/images/1005/623034.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/623034/coca-cola-zero-sugar-soft-drink-bottle",
-    "url": "https://www.woolworths.com.au/shop/productdetails/623034/coca-cola-zero-sugar-soft-drink-bottle",
-    "store_name": "Woolworths",
-    "product_name": "Coca-Cola Zero Sugar Soft Drink Bottle 1.25L"
   },
   {
     "term": "cola",
@@ -24784,15 +23083,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/193612/la-ice-cola-cans",
     "store_name": "Woolworths",
     "product_name": "La Ice Cola Cans 375mL x 12 pack"
-  },
-  {
-    "term": "cola",
-    "price": "$1.75",
-    "image": "https://assets.woolworths.com.au/images/1005/7985.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/7985/pepsi-max-cola-no-sugar-soft-drink-bottle",
-    "url": "https://www.woolworths.com.au/shop/productdetails/7985/pepsi-max-cola-no-sugar-soft-drink-bottle",
-    "store_name": "Woolworths",
-    "product_name": "Pepsi Max Cola No Sugar Soft Drink Bottle 1.25L"
   },
   {
     "term": "cola",
@@ -24955,33 +23245,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/756025/woolworths-lemonade-zero-sugar-bottle",
     "store_name": "Woolworths",
     "product_name": "Woolworths Lemonade Zero Sugar Bottle 1.25L"
-  },
-  {
-    "term": "lemonade",
-    "price": "$1.80",
-    "image": "https://assets.woolworths.com.au/images/1005/52558.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/52558/kirks-lemonade-soft-drink-bottle",
-    "url": "https://www.woolworths.com.au/shop/productdetails/52558/kirks-lemonade-soft-drink-bottle",
-    "store_name": "Woolworths",
-    "product_name": "Kirks Lemonade Soft Drink Bottle 1.25L"
-  },
-  {
-    "term": "lemonade",
-    "price": "$3.00",
-    "image": "https://assets.woolworths.com.au/images/1005/703393.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/703393/schweppes-lemonade-soft-drink-bottle",
-    "url": "https://www.woolworths.com.au/shop/productdetails/703393/schweppes-lemonade-soft-drink-bottle",
-    "store_name": "Woolworths",
-    "product_name": "Schweppes Lemonade Soft Drink Bottle 1.1L"
-  },
-  {
-    "term": "lemonade",
-    "price": "$4.20",
-    "image": "https://assets.woolworths.com.au/images/1005/95325.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/95325/sprite-lemonade-soft-drink-bottle",
-    "url": "https://www.woolworths.com.au/shop/productdetails/95325/sprite-lemonade-soft-drink-bottle",
-    "store_name": "Woolworths",
-    "product_name": "Sprite Lemonade Soft Drink Bottle 1.25L"
   },
   {
     "term": "lemonade",
@@ -25153,15 +23416,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/6033187/schweppes-lemonade-soft-drink-mini-cans-multipack",
     "store_name": "Woolworths",
     "product_name": "Schweppes Lemonade Soft Drink Mini Cans Multipack 250mL x 6 pack"
-  },
-  {
-    "term": "ginger beer",
-    "price": "$6.95",
-    "image": "https://assets.woolworths.com.au/images/1005/691996.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/691996/fever-tree-premium-ginger-beer-cans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/691996/fever-tree-premium-ginger-beer-cans",
-    "store_name": "Woolworths",
-    "product_name": "Fever-Tree Premium Ginger Beer Cans 250mL x 4 pack"
   },
   {
     "term": "ginger beer",
@@ -25507,15 +23761,6 @@
   },
   {
     "term": "energy drink",
-    "price": "$2.80",
-    "image": "https://assets.woolworths.com.au/images/1005/911076.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/911076/celsius-energy-drink-sparkling-kiwi-strawberry-can",
-    "url": "https://www.woolworths.com.au/shop/productdetails/911076/celsius-energy-drink-sparkling-kiwi-strawberry-can",
-    "store_name": "Woolworths",
-    "product_name": "Celsius Energy Drink Sparkling Kiwi Strawberry Can 330mL"
-  },
-  {
-    "term": "energy drink",
     "price": "$11.00",
     "image": "https://assets.woolworths.com.au/images/1005/6058089.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6058089/solo-energy-drink-lemon-no-sugar-cans-multipack",
@@ -25630,15 +23875,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/6026837/strangelove-zero-sugar-peach-flavoured-sparkling-water-multipack",
     "store_name": "Woolworths",
     "product_name": "StrangeLove Zero Sugar Peach Flavoured Sparkling Water Multipack 330mL x 4 pack"
-  },
-  {
-    "term": "water",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/6046620.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6046620/nexus-super-protein-sparkling-water-pink-lemonade",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6046620/nexus-super-protein-sparkling-water-pink-lemonade",
-    "store_name": "Woolworths",
-    "product_name": "Nexus Super Protein Sparkling Water Pink Lemonade 355mL"
   },
   {
     "term": "water",
@@ -25855,24 +24091,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/839502/cococoast-natural-coconut-water-pure",
     "store_name": "Woolworths",
     "product_name": "Cococoast Natural Coconut Water Pure 500mL"
-  },
-  {
-    "term": "sparkling water",
-    "price": "$5.60",
-    "image": "https://assets.woolworths.com.au/images/1005/6026837.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6026837/strangelove-zero-sugar-peach-flavoured-sparkling-water-multipack",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6026837/strangelove-zero-sugar-peach-flavoured-sparkling-water-multipack",
-    "store_name": "Woolworths",
-    "product_name": "StrangeLove Zero Sugar Peach Flavoured Sparkling Water Multipack 330mL x 4 pack"
-  },
-  {
-    "term": "sparkling water",
-    "price": "$5.50",
-    "image": "https://assets.woolworths.com.au/images/1005/6046620.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6046620/nexus-super-protein-sparkling-water-pink-lemonade",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6046620/nexus-super-protein-sparkling-water-pink-lemonade",
-    "store_name": "Woolworths",
-    "product_name": "Nexus Super Protein Sparkling Water Pink Lemonade 355mL"
   },
   {
     "term": "sparkling water",
@@ -26280,15 +24498,6 @@
     "product_name": "Sweet Baby Ray's BBQ Sauce 425mL"
   },
   {
-    "term": "bbq sauce",
-    "price": "$7.50",
-    "image": "https://assets.woolworths.com.au/images/1005/802036.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/802036/sweet-baby-ray-s-hickory-brown-sugar-bbq-sauce",
-    "url": "https://www.woolworths.com.au/shop/productdetails/802036/sweet-baby-ray-s-hickory-brown-sugar-bbq-sauce",
-    "store_name": "Woolworths",
-    "product_name": "Sweet Baby Ray's Hickory & Brown Sugar BBQ Sauce 425mL"
-  },
-  {
     "term": "soy sauce",
     "price": "$7.90",
     "image": "https://assets.woolworths.com.au/images/1005/103725.jpg?impolicy=wowsmkqiema&w=260&h=260",
@@ -26512,15 +24721,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/473749/nando-s-medium-peri-peri-chilli-sauce-peri-peri-sauce",
     "store_name": "Woolworths",
     "product_name": "Nando's Medium Peri-Peri Chilli Sauce 250g"
-  },
-  {
-    "term": "chilli sauce",
-    "price": "$3.00",
-    "image": "https://assets.woolworths.com.au/images/1005/142142.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/142142/masterfoods-hot-chilli-sauce",
-    "url": "https://www.woolworths.com.au/shop/productdetails/142142/masterfoods-hot-chilli-sauce",
-    "store_name": "Woolworths",
-    "product_name": "MasterFoods Hot Chilli Sauce 250mL"
   },
   {
     "term": "chilli sauce",
@@ -27343,15 +25543,6 @@
   },
   {
     "term": "vegetable oil",
-    "price": "$2.95",
-    "image": "https://assets.woolworths.com.au/images/1005/1121232969.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/1121232969/black-gold-sardines-in-vegetable-oil-125g-x-1",
-    "url": "https://www.woolworths.com.au/shop/productdetails/1121232969/black-gold-sardines-in-vegetable-oil-125g-x-1",
-    "store_name": "Woolworths",
-    "product_name": "Black & Gold Sardines In Vegetable Oil 125g x 1"
-  },
-  {
-    "term": "vegetable oil",
     "price": "$101.15",
     "image": "https://assets.woolworths.com.au/images/1005/1125346169.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/1125346169/40pk-scents-of-nature-toasted-marshmallow-scent-vegetable-oil-soap-bar-100g-pink",
@@ -27766,33 +25957,6 @@
   },
   {
     "term": "balsamic vinegar",
-    "price": "$3.50",
-    "image": "https://assets.woolworths.com.au/images/1005/924105.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/924105/the-australian-vinegar-co-balsamic-vinegar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/924105/the-australian-vinegar-co-balsamic-vinegar",
-    "store_name": "Woolworths",
-    "product_name": "The Australian Vinegar Co. Balsamic Vinegar 250mL"
-  },
-  {
-    "term": "balsamic vinegar",
-    "price": "$2.50",
-    "image": "https://assets.woolworths.com.au/images/1005/256878.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/256878/woolworths-balsamic-vinegar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/256878/woolworths-balsamic-vinegar",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Balsamic Vinegar 500mL"
-  },
-  {
-    "term": "balsamic vinegar",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/99709.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/99709/mazzetti-balsamic-vinegar-of-modena",
-    "url": "https://www.woolworths.com.au/shop/productdetails/99709/mazzetti-balsamic-vinegar-of-modena",
-    "store_name": "Woolworths",
-    "product_name": "Mazzetti Balsamic Vinegar Of Modena 500mL"
-  },
-  {
-    "term": "balsamic vinegar",
     "price": "$3.00",
     "image": "https://assets.woolworths.com.au/images/1005/99917.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/99917/mazzetti-balsamic-vinegar-of-modena",
@@ -27802,30 +25966,12 @@
   },
   {
     "term": "balsamic vinegar",
-    "price": "$5.00",
-    "image": "https://assets.woolworths.com.au/images/1005/35467.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/35467/moro-balsamic-vinegar-of-modena",
-    "url": "https://www.woolworths.com.au/shop/productdetails/35467/moro-balsamic-vinegar-of-modena",
-    "store_name": "Woolworths",
-    "product_name": "Moro Balsamic Vinegar Of Modena 500mL"
-  },
-  {
-    "term": "balsamic vinegar",
     "price": "$10.00",
     "image": "https://assets.woolworths.com.au/images/1005/729113.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/729113/sandhurst-dressings-caramelised-balsamic-vinegar",
     "url": "https://www.woolworths.com.au/shop/productdetails/729113/sandhurst-dressings-caramelised-balsamic-vinegar",
     "store_name": "Woolworths",
     "product_name": "Sandhurst Dressings Caramelised Balsamic Vinegar 250mL"
-  },
-  {
-    "term": "balsamic vinegar",
-    "price": "$3.00",
-    "image": "https://assets.woolworths.com.au/images/1005/781402.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/781402/red-rock-deli-potato-chips-sea-salt-balsamic-vinegar",
-    "url": "https://www.woolworths.com.au/shop/productdetails/781402/red-rock-deli-potato-chips-sea-salt-balsamic-vinegar",
-    "store_name": "Woolworths",
-    "product_name": "Red Rock Deli Potato Chips Sea Salt & Balsamic Vinegar 165g"
   },
   {
     "term": "balsamic vinegar",
@@ -28739,15 +26885,6 @@
   {
     "term": "soup",
     "price": "$4.40",
-    "image": "https://assets.woolworths.com.au/images/1005/19145.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/19145/heinz-classic-canned-soup-creamy-pumpkin",
-    "url": "https://www.woolworths.com.au/shop/productdetails/19145/heinz-classic-canned-soup-creamy-pumpkin",
-    "store_name": "Woolworths",
-    "product_name": "Heinz Classic Canned Soup Creamy Pumpkin 535g"
-  },
-  {
-    "term": "soup",
-    "price": "$4.40",
     "image": "https://assets.woolworths.com.au/images/1005/113792.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/113792/heinz-classic-italian-minestrone-canned-soup",
     "url": "https://www.woolworths.com.au/shop/productdetails/113792/heinz-classic-italian-minestrone-canned-soup",
@@ -28798,15 +26935,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/181922/dari-s-chicken-corn-soup",
     "store_name": "Woolworths",
     "product_name": "Dari's Chicken & Corn Soup 550g"
-  },
-  {
-    "term": "soup",
-    "price": "$5.95",
-    "image": "https://assets.woolworths.com.au/images/1005/210591.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/210591/dari-s-classic-pumpkin-soup",
-    "url": "https://www.woolworths.com.au/shop/productdetails/210591/dari-s-classic-pumpkin-soup",
-    "store_name": "Woolworths",
-    "product_name": "Dari's Classic Pumpkin Soup 550g"
   },
   {
     "term": "soup",
@@ -28891,15 +27019,6 @@
   },
   {
     "term": "soup",
-    "price": "$1.20",
-    "image": "https://assets.woolworths.com.au/images/1005/34393.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/34393/continental-classics-simmer-soup-french-onion",
-    "url": "https://www.woolworths.com.au/shop/productdetails/34393/continental-classics-simmer-soup-french-onion",
-    "store_name": "Woolworths",
-    "product_name": "Continental Classics Simmer Soup French Onion 40g"
-  },
-  {
-    "term": "soup",
     "price": "$3.50",
     "image": "https://assets.woolworths.com.au/images/1005/247332.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/247332/campbell-s-chunky-soup-irish-stew-style",
@@ -28973,24 +27092,6 @@
   {
     "term": "canned soup",
     "price": "$4.40",
-    "image": "https://assets.woolworths.com.au/images/1005/19145.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/19145/heinz-classic-canned-soup-creamy-pumpkin",
-    "url": "https://www.woolworths.com.au/shop/productdetails/19145/heinz-classic-canned-soup-creamy-pumpkin",
-    "store_name": "Woolworths",
-    "product_name": "Heinz Classic Canned Soup Creamy Pumpkin 535g"
-  },
-  {
-    "term": "canned soup",
-    "price": "$4.40",
-    "image": "https://assets.woolworths.com.au/images/1005/113792.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/113792/heinz-classic-italian-minestrone-canned-soup",
-    "url": "https://www.woolworths.com.au/shop/productdetails/113792/heinz-classic-italian-minestrone-canned-soup",
-    "store_name": "Woolworths",
-    "product_name": "Heinz Classic Italian Minestrone Canned Soup 535g"
-  },
-  {
-    "term": "canned soup",
-    "price": "$4.40",
     "image": "https://assets.woolworths.com.au/images/1005/828496.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/828496/heinz-classic-canned-soup-creamy-tomato",
     "url": "https://www.woolworths.com.au/shop/productdetails/828496/heinz-classic-canned-soup-creamy-tomato",
@@ -29000,146 +27101,11 @@
   {
     "term": "canned soup",
     "price": "$4.40",
-    "image": "https://assets.woolworths.com.au/images/1005/856165.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/856165/heinz-classic-canned-soup-potato-leek",
-    "url": "https://www.woolworths.com.au/shop/productdetails/856165/heinz-classic-canned-soup-potato-leek",
-    "store_name": "Woolworths",
-    "product_name": "Heinz Classic Canned Soup Potato & Leek 535g"
-  },
-  {
-    "term": "canned soup",
-    "price": "$4.40",
     "image": "https://assets.woolworths.com.au/images/1005/20749.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/20749/heinz-classic-canned-soup-country-chicken",
     "url": "https://www.woolworths.com.au/shop/productdetails/20749/heinz-classic-canned-soup-country-chicken",
     "store_name": "Woolworths",
     "product_name": "Heinz Classic Canned Soup Country Chicken 535g"
-  },
-  {
-    "term": "beans",
-    "price": "$2.20",
-    "image": "https://assets.woolworths.com.au/images/1005/732240.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/732240/edgell-beans-cannellini",
-    "url": "https://www.woolworths.com.au/shop/productdetails/732240/edgell-beans-cannellini",
-    "store_name": "Woolworths",
-    "product_name": "Edgell Beans Cannellini 400g"
-  },
-  {
-    "term": "beans",
-    "price": "$2.20",
-    "image": "https://assets.woolworths.com.au/images/1005/732217.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/732217/edgell-canned-butter-beans-picked-and-soaked-legumes",
-    "url": "https://www.woolworths.com.au/shop/productdetails/732217/edgell-canned-butter-beans-picked-and-soaked-legumes",
-    "store_name": "Woolworths",
-    "product_name": "Edgell Canned Butter Beans Picked and Soaked Legumes 400g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.00",
-    "image": "https://assets.woolworths.com.au/images/1005/907377.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/907377/woolworths-black-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/907377/woolworths-black-beans",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Black Beans 420g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.00",
-    "image": "https://assets.woolworths.com.au/images/1005/907049.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/907049/woolworths-red-kidney-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/907049/woolworths-red-kidney-beans",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Red Kidney Beans 420g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.50",
-    "image": "https://assets.woolworths.com.au/images/1005/700639.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/700639/macro-organic-cannellini-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/700639/macro-organic-cannellini-beans",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Cannellini Beans 425g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.90",
-    "image": "https://assets.woolworths.com.au/images/1005/106193.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/106193/annalisa-butter-beans-butter-lima",
-    "url": "https://www.woolworths.com.au/shop/productdetails/106193/annalisa-butter-beans-butter-lima",
-    "store_name": "Woolworths",
-    "product_name": "Annalisa Butter Beans 400g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.90",
-    "image": "https://assets.woolworths.com.au/images/1005/47882.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/47882/annalisa-beans-cannellini",
-    "url": "https://www.woolworths.com.au/shop/productdetails/47882/annalisa-beans-cannellini",
-    "store_name": "Woolworths",
-    "product_name": "Annalisa Beans Cannellini 400g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.50",
-    "image": "https://assets.woolworths.com.au/images/1005/700640.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/700640/macro-organic-red-kidney-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/700640/macro-organic-red-kidney-beans",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Red Kidney Beans 425g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.90",
-    "image": "https://assets.woolworths.com.au/images/1005/248348.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/248348/annalisa-beans-red-kidney",
-    "url": "https://www.woolworths.com.au/shop/productdetails/248348/annalisa-beans-red-kidney",
-    "store_name": "Woolworths",
-    "product_name": "Annalisa Beans Red Kidney 400g"
-  },
-  {
-    "term": "beans",
-    "price": "$2.00",
-    "image": "https://assets.woolworths.com.au/images/1005/6026555.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/6026555/frisp-edamame-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/6026555/frisp-edamame-beans",
-    "store_name": "Woolworths",
-    "product_name": "Frisp Edamame Beans 200g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.80",
-    "image": "https://assets.woolworths.com.au/images/1005/34090.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/34090/edgell-australian-grown-sliced-green-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/34090/edgell-australian-grown-sliced-green-beans",
-    "store_name": "Woolworths",
-    "product_name": "Edgell Australian Grown Sliced Green Beans 410g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.60",
-    "image": "https://assets.woolworths.com.au/images/1005/153220.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/153220/edgell-snack-time-black-beans-charred-corn-with-lime-herbs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/153220/edgell-snack-time-black-beans-charred-corn-with-lime-herbs",
-    "store_name": "Woolworths",
-    "product_name": "Edgell Snack Time Black Beans Charred Corn With Lime & Herbs 70g"
-  },
-  {
-    "term": "beans",
-    "price": "$2.60",
-    "image": "https://assets.woolworths.com.au/images/1005/874927.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/874927/mckenzie-s-black-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/874927/mckenzie-s-black-beans",
-    "store_name": "Woolworths",
-    "product_name": "McKenzie's Black Beans 375g"
-  },
-  {
-    "term": "beans",
-    "price": "$1.60",
-    "image": "https://assets.woolworths.com.au/images/1005/220157.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/220157/edgell-snack-time-black-beans-charred-capsicum-with-zesty-salsa",
-    "url": "https://www.woolworths.com.au/shop/productdetails/220157/edgell-snack-time-black-beans-charred-capsicum-with-zesty-salsa",
-    "store_name": "Woolworths",
-    "product_name": "Edgell Snack Time Black Beans Charred & Capsicum With Zesty Salsa 70g"
   },
   {
     "term": "baked beans",
@@ -29323,24 +27289,6 @@
   },
   {
     "term": "kidney beans",
-    "price": "$1.00",
-    "image": "https://assets.woolworths.com.au/images/1005/907049.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/907049/woolworths-red-kidney-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/907049/woolworths-red-kidney-beans",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Red Kidney Beans 420g"
-  },
-  {
-    "term": "kidney beans",
-    "price": "$1.50",
-    "image": "https://assets.woolworths.com.au/images/1005/700640.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/700640/macro-organic-red-kidney-beans",
-    "url": "https://www.woolworths.com.au/shop/productdetails/700640/macro-organic-red-kidney-beans",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Red Kidney Beans 425g"
-  },
-  {
-    "term": "kidney beans",
     "price": "$2.20",
     "image": "https://assets.woolworths.com.au/images/1005/584315.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/584315/edgell-red-kidney-beans-fibre-rich",
@@ -29446,15 +27394,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/301304/edgell-australian-chickpeas-multipack-snacks-ready-to-eat",
     "store_name": "Woolworths",
     "product_name": "Edgell Australian Chickpeas Multipack Snacks Ready to Eat 125g x 4 pack"
-  },
-  {
-    "term": "chickpeas",
-    "price": "$1.10",
-    "image": "https://assets.woolworths.com.au/images/1005/909519.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/909519/woolworths-chickpeas-with-capsicum-lemon-herbs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/909519/woolworths-chickpeas-with-capsicum-lemon-herbs",
-    "store_name": "Woolworths",
-    "product_name": "Woolworths Chickpeas With Capsicum Lemon & Herbs 70g"
   },
   {
     "term": "chickpeas",
@@ -29611,15 +27550,6 @@
   },
   {
     "term": "lentils",
-    "price": "$0.80",
-    "image": "https://assets.woolworths.com.au/images/1005/680363.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/680363/edgell-snack-time-lentils-with-capsicum-tomato-herbs",
-    "url": "https://www.woolworths.com.au/shop/productdetails/680363/edgell-snack-time-lentils-with-capsicum-tomato-herbs",
-    "store_name": "Woolworths",
-    "product_name": "Edgell Snack Time Lentils With Capsicum Tomato & Herbs 70g"
-  },
-  {
-    "term": "lentils",
     "price": "$1.70",
     "image": "https://assets.woolworths.com.au/images/1005/6006274.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/6006274/la-gina-lentils",
@@ -29720,29 +27650,11 @@
   {
     "term": "baby food",
     "price": "$1.60",
-    "image": "https://assets.woolworths.com.au/images/1005/669654.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/669654/macro-organic-baby-food-sweet-potato-carrot-zucchini",
-    "url": "https://www.woolworths.com.au/shop/productdetails/669654/macro-organic-baby-food-sweet-potato-carrot-zucchini",
-    "store_name": "Woolworths",
-    "product_name": "Macro Organic Baby Food Sweet Potato Carrot & Zucchini 120g"
-  },
-  {
-    "term": "baby food",
-    "price": "$1.60",
     "image": "https://assets.woolworths.com.au/images/1005/713599.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/713599/macro-organic-baby-food-chicken-sweetcorn-pasta-6m",
     "url": "https://www.woolworths.com.au/shop/productdetails/713599/macro-organic-baby-food-chicken-sweetcorn-pasta-6m",
     "store_name": "Woolworths",
     "product_name": "Macro Organic Baby Food Chicken & Sweetcorn Pasta 6m 120g"
-  },
-  {
-    "term": "baby food",
-    "price": "$2.30",
-    "image": "https://assets.woolworths.com.au/images/1005/498490.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/498490/rafferty-s-garden-banana-pear-mango-porridge-baby-food-pouch-6-months",
-    "url": "https://www.woolworths.com.au/shop/productdetails/498490/rafferty-s-garden-banana-pear-mango-porridge-baby-food-pouch-6-months",
-    "store_name": "Woolworths",
-    "product_name": "Rafferty's Garden Banana Pear & Mango Porridge Baby Food Pouch 6+ Months 120g"
   },
   {
     "term": "baby food",
@@ -30511,15 +28423,6 @@
   },
   {
     "term": "dog food",
-    "price": "$2.00",
-    "image": "https://assets.woolworths.com.au/images/1005/55060.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/55060/ultimates-indulge-wet-dog-food-beef-mince-in-gravy",
-    "url": "https://www.woolworths.com.au/shop/productdetails/55060/ultimates-indulge-wet-dog-food-beef-mince-in-gravy",
-    "store_name": "Woolworths",
-    "product_name": "Ultimates Indulge Wet Dog Food Beef Mince In Gravy 400g"
-  },
-  {
-    "term": "dog food",
     "price": "$4.50",
     "image": "https://assets.woolworths.com.au/images/1005/45938.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/45938/pedigree-casserole-with-chicken-gravy-wet-dog-food-can",
@@ -30556,15 +28459,6 @@
   },
   {
     "term": "cat food",
-    "price": "$2.65",
-    "image": "https://assets.woolworths.com.au/images/1005/53224.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/53224/whiskas-adult-1-years-wet-cat-food-with-beef-mince-can",
-    "url": "https://www.woolworths.com.au/shop/productdetails/53224/whiskas-adult-1-years-wet-cat-food-with-beef-mince-can",
-    "store_name": "Woolworths",
-    "product_name": "Whiskas Adult 1+ Years Wet Cat Food with Beef Mince Can 400g"
-  },
-  {
-    "term": "cat food",
     "price": "$1.60",
     "image": "https://assets.woolworths.com.au/images/1005/349690.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/349690/dine-adult-wet-cat-food-saucy-morsels-with-tuna-cheese",
@@ -30597,7 +28491,7 @@
     "productId": "/shop/productdetails/268308/fancy-feast-adult-classic-savory-salmon-feast-pat-wet-cat-food",
     "url": "https://www.woolworths.com.au/shop/productdetails/268308/fancy-feast-adult-classic-savory-salmon-feast-pat-wet-cat-food",
     "store_name": "Woolworths",
-    "product_name": "Fancy Feast Adult Classic Savory Salmon Feast Pat\u00c3\u00a8 Wet Cat Food 85g"
+    "product_name": "Fancy Feast Adult Classic Savory Salmon Feast PatÃ¨ Wet Cat Food 85g"
   },
   {
     "term": "cat food",
@@ -30759,7 +28653,7 @@
     "productId": "/shop/productdetails/63723/fancy-feast-adult-savory-centers-pat-chicken-gravy-wet-cat-food",
     "url": "https://www.woolworths.com.au/shop/productdetails/63723/fancy-feast-adult-savory-centers-pat-chicken-gravy-wet-cat-food",
     "store_name": "Woolworths",
-    "product_name": "Fancy Feast Adult Savory Centers Pat\u00c3\u00a8 Chicken Gravy Wet Cat Food 85g"
+    "product_name": "Fancy Feast Adult Savory Centers PatÃ¨ Chicken Gravy Wet Cat Food 85g"
   },
   {
     "term": "cat food",
@@ -32347,15 +30241,6 @@
   },
   {
     "term": "hand wash",
-    "price": "$3.50",
-    "image": "https://assets.woolworths.com.au/images/1005/325881.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/325881/palmolive-liquid-hand-wash-soap-odour-neutralising",
-    "url": "https://www.woolworths.com.au/shop/productdetails/325881/palmolive-liquid-hand-wash-soap-odour-neutralising",
-    "store_name": "Woolworths",
-    "product_name": "Palmolive Liquid Hand Wash Soap Odour Neutralising 250mL"
-  },
-  {
-    "term": "hand wash",
     "price": "$2.40",
     "image": "https://assets.woolworths.com.au/images/1005/724892.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/724892/palmolive-foaming-liquid-hand-wash-antibacterial-soap-pump-lime",
@@ -33352,15 +31237,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/24761/listerine-freshburst-antibacterial-mouthwash",
     "store_name": "Woolworths",
     "product_name": "Listerine Freshburst Antibacterial Mouthwash 500mL"
-  },
-  {
-    "term": "dental floss",
-    "price": "$2.00",
-    "image": "https://assets.woolworths.com.au/images/1005/101697.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/101697/oral-b-satin-tape-clean-dental-floss-mint-25m",
-    "url": "https://www.woolworths.com.au/shop/productdetails/101697/oral-b-satin-tape-clean-dental-floss-mint-25m",
-    "store_name": "Woolworths",
-    "product_name": "Oral-B Satin Tape Clean Dental Floss Mint 25m each"
   },
   {
     "term": "dental floss",
@@ -34444,15 +32320,6 @@
   },
   {
     "term": "moisturiser",
-    "price": "$6.00",
-    "image": "https://assets.woolworths.com.au/images/1005/674479.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/674479/nivea-cocoa-butter-body-lotion-48-hour-deep-moisturiser",
-    "url": "https://www.woolworths.com.au/shop/productdetails/674479/nivea-cocoa-butter-body-lotion-48-hour-deep-moisturiser",
-    "store_name": "Woolworths",
-    "product_name": "Nivea Cocoa Butter Body Lotion 48 Hour Deep Moisturiser 400mL"
-  },
-  {
-    "term": "moisturiser",
     "price": "$11.00",
     "image": "https://assets.woolworths.com.au/images/1005/236710.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/236710/redwin-sorbolene-daily-moisturiser",
@@ -34876,30 +32743,12 @@
   },
   {
     "term": "panadol",
-    "price": "$4.25",
-    "image": "https://assets.woolworths.com.au/images/1005/916718.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/916718/panadol-with-optizorb-paracetamol-for-fast-pain-relief-500mg",
-    "url": "https://www.woolworths.com.au/shop/productdetails/916718/panadol-with-optizorb-paracetamol-for-fast-pain-relief-500mg",
-    "store_name": "Woolworths",
-    "product_name": "Panadol With Optizorb Paracetamol For Fast Pain Relief 500mg 16 pack"
-  },
-  {
-    "term": "panadol",
     "price": "$5.10",
     "image": "https://assets.woolworths.com.au/images/1005/916772.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/916772/panadol-rapid-for-fast-pain-relief-with-paracetamol-500mg",
     "url": "https://www.woolworths.com.au/shop/productdetails/916772/panadol-rapid-for-fast-pain-relief-with-paracetamol-500mg",
     "store_name": "Woolworths",
     "product_name": "Panadol Rapid For Fast Pain Relief With Paracetamol 500mg 16 pack"
-  },
-  {
-    "term": "panadol",
-    "price": "$4.00",
-    "image": "https://assets.woolworths.com.au/images/1005/916787.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/916787/panadol-tablet-with-paracetamol-for-fast-pain-relief-500mg",
-    "url": "https://www.woolworths.com.au/shop/productdetails/916787/panadol-tablet-with-paracetamol-for-fast-pain-relief-500mg",
-    "store_name": "Woolworths",
-    "product_name": "Panadol Tablet With Paracetamol For Fast Pain Relief 500mg 16 pack"
   },
   {
     "term": "panadol",
@@ -34918,15 +32767,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/916780/panadol-rapid-soluble-with-paracetamol-500mg",
     "store_name": "Woolworths",
     "product_name": "Panadol Rapid Soluble With Paracetamol 500mg 16 pack"
-  },
-  {
-    "term": "panadol",
-    "price": "$6.75",
-    "image": "https://assets.woolworths.com.au/images/1005/172323.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/172323/panadol-children-7-years-chewable-tablet-pain-relief",
-    "url": "https://www.woolworths.com.au/shop/productdetails/172323/panadol-children-7-years-chewable-tablet-pain-relief",
-    "store_name": "Woolworths",
-    "product_name": "Panadol Children 7+ Years Chewable Tablet Pain Relief 12 pack"
   },
   {
     "term": "panadol",
@@ -34954,15 +32794,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/916715/panadol-cold-and-flu-plus-decongestant-paracetamol-500mg",
     "store_name": "Woolworths",
     "product_name": "Panadol Cold and Flu Plus Decongestant Paracetamol 500mg 16 pack"
-  },
-  {
-    "term": "ibuprofen",
-    "price": "$5.40",
-    "image": "https://assets.woolworths.com.au/images/1005/320780.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/320780/nurofen-zavance-fast-pain-relief-tablets-256mg-ibuprofen",
-    "url": "https://www.woolworths.com.au/shop/productdetails/320780/nurofen-zavance-fast-pain-relief-tablets-256mg-ibuprofen",
-    "store_name": "Woolworths",
-    "product_name": "Nurofen Zavance Fast Pain Relief Tablets 256Mg Ibuprofen 12 pack"
   },
   {
     "term": "ibuprofen",
@@ -35065,24 +32896,6 @@
   },
   {
     "term": "ibuprofen",
-    "price": "$9.50",
-    "image": "https://assets.woolworths.com.au/images/1005/333586.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/333586/nurofen-zavance-fast-pain-relief-liquid-capsules-ibuprofen",
-    "url": "https://www.woolworths.com.au/shop/productdetails/333586/nurofen-zavance-fast-pain-relief-liquid-capsules-ibuprofen",
-    "store_name": "Woolworths",
-    "product_name": "Nurofen Zavance Fast Pain Relief Liquid Capsules Ibuprofen 20 pack"
-  },
-  {
-    "term": "ibuprofen",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/320783.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/320783/nurofen-zavance-fast-pain-relief-caplets-256mg-ibuprofen",
-    "url": "https://www.woolworths.com.au/shop/productdetails/320783/nurofen-zavance-fast-pain-relief-caplets-256mg-ibuprofen",
-    "store_name": "Woolworths",
-    "product_name": "Nurofen Zavance Fast Pain Relief Caplets 256Mg Ibuprofen 24 pack"
-  },
-  {
-    "term": "ibuprofen",
     "price": "$7.00",
     "image": "https://assets.woolworths.com.au/images/1005/142247.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/142247/advil-minis-liquid-capsules-ibuprofen-pain-fever-relief",
@@ -35107,15 +32920,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/203640/nurofen-pain-and-inflammation-relief-caplets-200mg-ibuprofen",
     "store_name": "Woolworths",
     "product_name": "Nurofen Pain And Inflammation Relief Caplets 200Mg Ibuprofen 24 pack"
-  },
-  {
-    "term": "ibuprofen",
-    "price": "$9.00",
-    "image": "https://assets.woolworths.com.au/images/1005/320786.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/320786/nurofen-zavance-fast-pain-relief-tablets-256mg-ibuprofen",
-    "url": "https://www.woolworths.com.au/shop/productdetails/320786/nurofen-zavance-fast-pain-relief-tablets-256mg-ibuprofen",
-    "store_name": "Woolworths",
-    "product_name": "Nurofen Zavance Fast Pain Relief Tablets 256Mg Ibuprofen 24 pack"
   },
   {
     "term": "ibuprofen",
@@ -35161,15 +32965,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/520201/nurofen-for-children-7-yrs-chewable-ibuprofen-orange",
     "store_name": "Woolworths",
     "product_name": "Nurofen For Children 7+ Yrs Chewable Ibuprofen Orange 24 pack"
-  },
-  {
-    "term": "ibuprofen",
-    "price": "$5.40",
-    "image": "https://assets.woolworths.com.au/images/1005/320782.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/320782/nurofen-zavance-fast-pain-relief-caplets-256mg-ibuprofen",
-    "url": "https://www.woolworths.com.au/shop/productdetails/320782/nurofen-zavance-fast-pain-relief-caplets-256mg-ibuprofen",
-    "store_name": "Woolworths",
-    "product_name": "Nurofen Zavance Fast Pain Relief Caplets 256Mg Ibuprofen 12 pack"
   },
   {
     "term": "cough syrup",
@@ -36015,7 +33810,7 @@
     "productId": "/shop/productdetails/6019016/finish-quantum-dishwasher-tablets-lemon",
     "url": "https://www.woolworths.com.au/shop/productdetails/6019016/finish-quantum-dishwasher-tablets-lemon",
     "store_name": "Woolworths",
-    "product_name": "Finish Quantum\u00c2\u00a0 Dishwasher Tablets Lemon 90 pack"
+    "product_name": "Finish QuantumÂ  Dishwasher Tablets Lemon 90 pack"
   },
   {
     "term": "dishwasher tablets",
@@ -36060,7 +33855,7 @@
     "productId": "/shop/productdetails/6022467/fairy-platinum-dishwasher-tablets-lemon-scent",
     "url": "https://www.woolworths.com.au/shop/productdetails/6022467/fairy-platinum-dishwasher-tablets-lemon-scent",
     "store_name": "Woolworths",
-    "product_name": "Fairy Platinum\u00c2\u00a0Dishwasher Tablets Lemon Scent 80 pack"
+    "product_name": "Fairy PlatinumÂ Dishwasher Tablets Lemon Scent 80 pack"
   },
   {
     "term": "dishwasher tablets",
@@ -36514,15 +34309,6 @@
   },
   {
     "term": "disinfectant",
-    "price": "$3.30",
-    "image": "https://assets.woolworths.com.au/images/1005/94095.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/94095/domestos-disinfectant-bleach-regular",
-    "url": "https://www.woolworths.com.au/shop/productdetails/94095/domestos-disinfectant-bleach-regular",
-    "store_name": "Woolworths",
-    "product_name": "Domestos Disinfectant Bleach Regular 1.25L"
-  },
-  {
-    "term": "disinfectant",
     "price": "$12.50",
     "image": "https://assets.woolworths.com.au/images/1005/69455.jpg?impolicy=wowsmkqiema&w=260&h=260",
     "productId": "/shop/productdetails/69455/dettol-antibacterial-disinfectant-liquid-solution",
@@ -36574,15 +34360,6 @@
     "url": "https://www.woolworths.com.au/shop/productdetails/221411/pine-o-cleen-coconut-sea-salt-cleaning-disinfectant-spray",
     "store_name": "Woolworths",
     "product_name": "Pine O Cleen Coconut & Sea Salt Cleaning Disinfectant Spray 750mL"
-  },
-  {
-    "term": "disinfectant",
-    "price": "$3.30",
-    "image": "https://assets.woolworths.com.au/images/1005/94094.jpg?impolicy=wowsmkqiema&w=260&h=260",
-    "productId": "/shop/productdetails/94094/domestos-disinfectant-bleach-mountain-fresh",
-    "url": "https://www.woolworths.com.au/shop/productdetails/94094/domestos-disinfectant-bleach-mountain-fresh",
-    "store_name": "Woolworths",
-    "product_name": "Domestos Disinfectant Bleach Mountain Fresh 1.25L"
   },
   {
     "term": "disinfectant",
