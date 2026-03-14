@@ -1,0 +1,5 @@
+
+woolworths: term,price, image, product id , url, store name, product name
+iga: term, quanitty, price, image,href,url,store name,prlduct name
+coles; term, rpice, image, productid, url, storename, product anme
+aldi: term, price , image, productid, url, store name, product name
